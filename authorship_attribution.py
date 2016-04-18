@@ -49,15 +49,6 @@ def getFeatures(filename):
 	# use wordList and characterList
 	return featuresToList(features)
 	
-# Train the classifier
-# texts - list of filenames with text
-# labels - author of each text
-def train (filenames, labels):
-	# process the files to get most frequent words and characters, putting the result into the global variables
-	# for each file, get features as a list
-	# use features and labels for all files to train the classifiers
-	pass
-	
 # Evaluate classifiers using N-fold cross validation
 # Input: classifier (one of global vars), features and labels for each text
 def evaluate (classifier, filenames, labels, numberOfFolds=5):
