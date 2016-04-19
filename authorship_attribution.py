@@ -6,31 +6,35 @@ import numpy as np
 
 from nltk.stem.porter import PorterStemmer
 from nltk.probability import FreqDist
-'''
-import nltk.classify.util, nltk.metrics
-from nltk.corpus import stopwords
-from nltk.collocations import BigramCollocationFinder
-from nltk.metrics import BigramAssocMeasures
-'''
 
-from sklearn import linear_model
-from sklearn import svm
-from sklearn.cluster import KMeans
+from sklearn.svm import SVC
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.naive_bayes import GaussianNB
+
 from sklearn.cross_validation import StratifiedKFold
 from sklearn.metrics import confusion_matrix
+from sklearn.feature_selection import SelectKBest
+from sklearn.feature_selection import chi2
 
 stemmer = PorterStemmer()
 letterPattern = re.compile('[^a-zA-Z0-9 ]+')
 
 # Top N most frequent words/characters go here after the feature 
 wordList = []
-characterList = []
+charList = []
 
 # How many most used words/characters we take from each author
-wordsPerAuthor = 30
+wordsPerAuthor = 100
+charsPerAuthor = 100
+# How many features to select in feature selection
+numBestFeatures = 50
+
+featureSelection = SelectKBest(chi2, k=numBestFeatures)
 
 '''
-What features we can easily add (main task for tomorrow):
+Features to add:
 - word and character n-gram frequencies. nltk makes it easy to extract n-grams, so we can also add top N bigrams (bigrams are two words or characters following each other).
 - frequencies of specific characters (alphabetic, numeric, punctiation, uppercase, etc.)
 '''
@@ -44,73 +48,113 @@ class TextFeatures:
 	medianWordLength = None
 	stdWordLength = None
 	wordFrequencies = {}
+	charFrequencies = {}
 	author = None # cheating feature
 	# any additional features go here
+	
+def getFeatureName(number):
+	result = []
+	result.append('Words occurring once')
+	result.append('Words occurring twice')
+	result.append('Lexical richness (distinct words used)')
+	result.append('Average word length')
+	result.append('Median word length')
+	result.append('Standard deviation of word lengths')
+	#result.append('Author')
+	for word in wordList:
+		result.append('Frequency of word "'+word+'"')
+	for char in charList:
+		result.append('Frequency of character "'+char+'"')
+	return result[number]
 		
 # Convert TextFeatures to list for ML algorithms
 def featuresToList(features):
 	# Append features to an empty list in given order
 	# Take care of features not needed or not included
 	result = []
-	
 	result.append(features.wordsOccurringOnce)
 	result.append(features.wordsOccurringTwice)
 	result.append(features.lexicalRichness)
 	result.append(features.avgWordLength)
 	result.append(features.medianWordLength)
 	result.append(features.stdWordLength)
-	result.append(features.author)
+	#result.append(features.author)
 	
 	for word in wordList:
 		if (word in features.wordFrequencies.keys()):
 			result.append(features.wordFrequencies[word])
 		else:
-			result.append(0.0)
-	
+			result.append(0.0000001)
+			
+	for char in charList:
+		if (char in features.charFrequencies.keys()):
+			result.append(features.charFrequencies[char])
+		else:
+			result.append(0.0000001)
 	return result
 	
 # Select features to be used given files
 # Goal: set global variables to proper values
 # For example, find N most used words/characters
 def selectFeatures(filenames, labels):
-	# Select 10 most used words from each author
+	# Select most used words and characters from each author
 	for author in set(labels):
 		authorFilenames = [f for f in filenames if os.path.basename(f).split('-')[0]==author]
 		wordFreq = FreqDist()
+		charFreq = FreqDist()
 		for filename in authorFilenames:
 			with open(filename) as fp:
-				raw = fp.read().decode('utf8').lower()
+				raw = fp.read().decode('utf8')
+			# get most used chars
+			charDistText = FreqDist(raw)
+			for char in charDistText.keys():
+				if char in charFreq.keys():
+					charFreq[char] = charFreq[char] + charDistText[char]
+				else:
+					charFreq[char] = charDistText[char]
 			# remove non-letters
 			text = letterPattern.sub('', raw)
 			# stem
-			text = [stemmer.stem(word) for word in text.split()]
+			text = [stemmer.stem(word) for word in text.lower().split()]
+			# get most used words
 			freqDistText = FreqDist(text)
-			#print freqDistText.most_common(5)
 			for word in freqDistText.keys():
 				if word in wordFreq.keys():
 					wordFreq[word] = wordFreq[word] + freqDistText[word]
 				else:
 					wordFreq[word] = freqDistText[word]
-		mostCommon = wordFreq.most_common(wordsPerAuthor)
-		for (word, count) in mostCommon:
+		mostCommonWords = wordFreq.most_common(wordsPerAuthor)
+		for (word, count) in mostCommonWords:
 			if word not in wordList:
 				wordList.append(word)
-	#print wordList
-	#print len(wordList)
+		mostCommonChars = charFreq.most_common(charsPerAuthor)
+		for (char, count) in mostCommonChars:
+			if char not in charList:
+				charList.append(char)
 		
+# Print the most useful features for given data
+def showBestFeatures(filenames, labels):
+	selectFeatures(filenames, labels)
+	features = [getFeatures(fn) for fn in filenames]
+	featureSelection.fit(features, labels)
+	featuresSelected = featureSelection.get_support(indices=True)
+	print str(numBestFeatures) + ' best features:'
+	for index in featuresSelected:
+		print getFeatureName(index)
 	
+		
 # Produces a list of features for a file
 def getFeatures(filename):
 	features = TextFeatures()
 	features.author = float(os.path.basename(filename).split('-')[0])
 	# read the file
 	with open(filename) as fp:
-		raw = fp.read().decode('utf8').lower()
+		raw = fp.read().decode('utf8')
 	# print len(set(raw.split())) # how many different words before processing
 	# remove non-letters
 	text = letterPattern.sub('', raw)
 	# get average/median/std of word lengths
-	wordLengths = [len(word) for word in text.split()]
+	wordLengths = [len(word) for word in text.lower().split()]
 	avgWordLength = np.average(wordLengths)
 	medianWordLength = np.median(wordLengths)
 	stdWordLength = np.std(wordLengths)
@@ -120,15 +164,21 @@ def getFeatures(filename):
 	# stem
 	text = [stemmer.stem(word) for word in text.split()]
 	# calculate frequency data
-	freqDist = FreqDist(text)
+	wordFreqDist = FreqDist(text)
 	for word in wordList:
-		if word in freqDist.keys():
-			features.wordFrequencies[word] = freqDist[word]/float(len(text))
+		if word in wordFreqDist.keys():
+			features.wordFrequencies[word] = wordFreqDist[word]/float(len(text))
 		else:
-			features.wordFrequencies[word] = 0.0
+			features.wordFrequencies[word] = 0.0000001
+	charFreqDist = FreqDist(raw)
+	for char in charList:
+		if char in charFreqDist.keys():
+			features.charFrequencies[char] = charFreqDist[char]/float(len(raw))
+		else:
+			features.charFrequencies[char] = 0.0000001
 	# calculate words occurring 1-2 times
-	wordsOccurringOnce = [w for w in freqDist.keys() if freqDist[w]==1]
-	wordsOccurringTwice = [w for w in freqDist.keys() if freqDist[w]==2]
+	wordsOccurringOnce = [w for w in wordFreqDist.keys() if wordFreqDist[w]==1]
+	wordsOccurringTwice = [w for w in wordFreqDist.keys() if wordFreqDist[w]==2]
 	features.wordsOccurringOnce = len(wordsOccurringOnce)/float(len(text))
 	features.wordsOccurringTwice = len(wordsOccurringTwice)/float(len(text))
 	features.lexicalRichness = len(set(text))/float(len(text))
@@ -158,7 +208,7 @@ def evaluate (classifier, filenames, labels, numberOfFolds=5):
 	numIncorrect = 0
 	
 	for train, test in skf:
-		print 'Training on ' + str(len(train)) + ' samples. Testing on ' + str(len(test)) + ' samples.'
+		#print 'Training on ' + str(len(train)) + ' samples. Testing on ' + str(len(test)) + ' samples.'
 		trainingFilenames = []
 		trainingLabels = []
 		testingFilenames = []
@@ -180,6 +230,9 @@ def evaluate (classifier, filenames, labels, numberOfFolds=5):
 			trainingData.append(getFeatures(fn))
 		for fn in testingFilenames:
 			testingData.append(getFeatures(fn))
+		# Feature selection
+		trainingData = featureSelection.fit_transform(trainingData, trainingLabels)
+		testingData = featureSelection.transform(testingData)
 		# Train on training data
 		classifier.fit(trainingData, trainingLabels)
 		# Classify testing data
@@ -198,6 +251,7 @@ def evaluate (classifier, filenames, labels, numberOfFolds=5):
 	# Print accuracy
 	accuracy = numCorrect/float(numCorrect+numIncorrect)
 	print 'Accuracy: ' + str(accuracy)
+	print ''
 	
 if __name__ == '__main__':
 	# Get filenames and labels for training data
@@ -209,18 +263,33 @@ if __name__ == '__main__':
 	for author in set(labels):
 		print 'Author: ' + str(author) + '    Files: ' + str(labels.count(author))
 	# Define classifiers to compare
-	svmClassifier = svm.SVC()
-	logRegClassifier = linear_model.LogisticRegression()
-	kMeans = KMeans(n_clusters=numAuthors)
+	svmClassifier = SVC(C=10)
+	knnClassifier = KNeighborsClassifier(weights='distance')
+	dTreeClassifier = DecisionTreeClassifier()
+	rForestClassifier = RandomForestClassifier()
+	nBayesClassifier = GaussianNB()
 	# Produce the results
 	#displayAvgFeatures (filenames, labels)
-	
-	print 'Testing Logistic Regression'
-	#print getFeatures(filenames[0])
-	evaluate (logRegClassifier, filenames, labels)
-	
+	#selectFeatures(filenames, labels)
+	print ''
+	showBestFeatures(filenames, labels)
+	print ''
+
 	print 'Testing SVM'
 	evaluate (svmClassifier, filenames, labels)
+	
+	print 'Testing KNN'
+	evaluate (knnClassifier, filenames, labels)
+	
+	print 'Testing decision tree'
+	evaluate (dTreeClassifier, filenames, labels)
+	
+	print 'Testing random forest'
+	evaluate (rForestClassifier, filenames, labels)
+	
+	print 'Testing naive Bayes'
+	evaluate (nBayesClassifier, filenames, labels)
+	
 	
 	
 	
