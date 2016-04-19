@@ -1,0 +1,70 @@
+
+The Hacking Chinese tone training course
+
+Last week, I wrote an article about how to learn to hear the tones in Mandarin. In my opinion, that’s a very important question. The most obvious reason is that understanding spoken Mandarin becomes very hard if you don’t hear the tones. In addition, it’s also true that it’s impossible to be able to pronounce something correctly and consistently if you can’t hear the difference yourself.
+
+Learning to hear the tones in Mandarin
+
+The problem is further aggravated by the fact that this is almost never taught in classrooms. Pronunciation in general is overlooked, but the listening part (identifying sounds) is even more neglected.
+
+Some students are good at this and pick up new sounds easily. But what about the rest? Are they just supposed to accept that it’s too hard and either stop learning or accept that their listening comprehension and pronunciation will suffer?
+
+Of course not! The problem is that there is no good way of systematically hearing the tones, especially not if you don’t live in a Chinese-speaking environment. Even if you do, your input is likely to be too random and unpredictable to help you much (unless you belong to the group who can easily pick up sounds and tones, of course).
+
+As I mentioned in last week’s article, speaker variation has been found to be very important for learning to hear differences. Please refer to that article for more about this. But most learners can’t find varied input from a number of speakers that is also systematic and predictable enough to allow their brains to establish and adjust the correct sound categories. Allow me to introduce the tone training course:
+
+Announcing the tone training course
+
+The goal with my thesis research is to fix this problem, or at least take a significant step in the right direction. Thus, I hereby announce the opening of the tone training course, presented in cooperation with Kevin Bullaughey through the language learning platform WordSwing (more about this below).
+
+Below, I will tell you more about the course and how to join it. First some basics:
+
+The course:
+
+    …targets any learner who has not yet mastered basic (single) tones
+    …focuses on hearing tones, which will also improve pronunciation
+    …can be used on your computer or phone, as long as you have internet access*
+    …is built on research into tone acquisition for adult
+    …works well, based based on pilot-study data
+    …takes a few hours to complete (spread out)
+    …is free
+
+*If you are in China, you might need a VPN.
+
+How to join
+
+As mentioned above, the course is provided in cooperation with WordSwing, so the first thing you need to do is to register (for free) here:
+
+https://wordswing.com/sign-up
+
+tone-course-linkWordSwing offers different kinds of language practice, but while you are free (encouraged) to check out the other parts, the tone course is what I’m talking about here.
+
+After you have registered, you can find the tone training course by using the link below or through the dashboard (image on the right):
+
+https://wordswing.com/cards/tone-training-course
+
+You can always find the course progress overview by following the above link. If you have any questions or if anything doesn’t seem to work properly, please contact me or use the built-in contact function in WordSwing.
+
+More about the course
+
+This is what the course interface looks like, but you will be introduced to it more properly later.
+
+unnamedThis is an overview of what the course looks like:
+
+    Registration with a small survey
+    Introduction to the course
+    Introduction to tones in Mandarin (optional)
+    Demo and explanation of the interface
+    Test to see where you are now
+    Training sessions (with breaks in-between)
+    Tests to check how much you’ve learnt
+    Results and further learning
+    Individual pronunciation help (by me)
+
+screenshot116The whole course takes 2-5 hours, depending on how quick you are. This time is spread out, though, so each session isn’t that long. Also, learning to hear the difference between tones takes time, so you every minute you spend takes you closer to that goal! Think of it as doing push-ups: it might not be the most entertaining activity you can think of, but it will build strength if you keep it up!
+
+The course only consists of listening exercises, but research also shows that this type of training improves pronunciation too, even if you don’t practice it during the course itself! Becoming better at hearing differences between tones makes you more likely to notice them and will improve your own way of pronouncing them.
+
+A step in the right direction
+
+I would also like to say that I realise that this is not the ultimate tone-learning tool. There is much to improve. For example, once we have shown that this works well, we should add tone pairs. We might also want to make the course more interesting and fun. However, we have to start somewhere. Additionally, since this is a scientific experiment, we can’t do too many fancy things at once, we need to take it step by step and improve gradually. I hope you’re willing to help!

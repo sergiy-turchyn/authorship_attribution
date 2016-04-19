@@ -1,0 +1,78 @@
+
+About right and wrong when learning Chinese
+
+Have you ever asked a native speaker how to say something and then say the same thing yourself to someone else only to be corrected for your incorrect language? Or perhaps the opposite, being told that something is incorrect only to hear it said by a native speaker the next day?
+
+This happens all the time, and it feels like it happens more with Chinese than other languages I’ve learnt.
+
+It’s a frustrating phenomenon as a language learner because we want clearly defined and easily applicable answers to our questions. That’s not how languages work, though, especially not in as large and diverse a place as China.
+
+In this article, I will discuss the problem of right and wrong, and how that relates to correctness in Chinese, both when it comes to grammar and vocabulary. I will not be able to solve the problem for you, but I will provide strategies for making it more manageable.
+Chinese is flexible
+
+Chinese is a flexible language, especially when it comes to word order. Some sentences can be arranged in almost any way and still be grammatical. This doesn’t mean that it doesn’t matter what you say, though. In general, if there are two ways of saying something, you can be pretty sure that they don’t mean exactly the same thing or are used the same way.
+
+If there were no difference at all, there wouldn’t be two different expressions. Now, the difference can be very slight in some cases and needn’t be related to meaning. For instance, people in different regions might have different ways of expressing the same thing.
+
+I once overheard an interesting but misguided discussion about the difference between 说 and 讲 when used as a one-character verb, with one person claiming that the former was more formal than the latter, and the other person claiming the exact opposite. No-one considered regional differences, which is a more appropriate explanation here (说 is more common in the north, 讲 is more common in the south).
+Languages are flexible
+
+This brings us to the next point: languages are quite flexible in general. This is something which isn’t immediately apparent to people who don’t take an interest in languages, but the likelihood is that you overestimate the regularity of your native language.
+
+People who haven’t been exposed to evidence to the contrary tend to believe that their feeling for the language is accurate (meaning that it represents how the language is commonly used). This is true if you keep to the region the speaker lives in and the kind of people she socialises with, but it’s probably not true for the language as a whole.
+
+This is reflected in grammar research as well. If a researcher wants to be taken seriously, it’s sometimes not enough to say “this sentences is wrong” and “this sentence is correct”, because simply saying so doesn’t make it true. Therefore, including corpus data or judgements from a large number of native speakers is a much better way of discussing the correctness of language.
+Spoken and written language
+
+One of the main blind spots for non-linguists is the huge difference between spoken and written language. People who haven’t seen spoken conversations written down imagine that they look like dialogues in a novel.  This is not the case! Native speakers break all kinds of “rules” all the time. There are no sentences, only vaguely arranged clauses, many of which are never finished or which change direction halfway through.
+
+For instance, look at these sentence (said by an educated native speaker of Chinese):
+
+    我明天去应该
+
+    气死我了你
+
+    我很喜欢他其实
+
+Now, even if you’ve just studied Chinese for a few months, the word order here should violate several rules you have learnt. You should probably say 我应该明天去, 你气死我了 and 我其实很喜欢他. Still, sentences like those quoted above are still very common in colloquial language!
+
+You have to understand that spoken and written languages are very different and follow different principles. The same native speaker who said these sentences would never write them like that!
+
+I didn’t bring up these examples in order to tell you that you no longer need to care about word order. Nothing could be further from the truth; word order is possible the most important part of Chinese grammar!
+
+However, it doesn’t always work in the neat version described in your textbook. Also note that even if some word-order variation is to be expected in colloquial speech, it doesn’t mean that anything goes! My advice is to learn the rules before you break them.
+123414937_11nWhat does “correct” mean anyway?
+
+When talking about correctness, it’s necessary to understand the difference between prescriptive and descriptive approaches. The first strives to tell you what you ought to say, because it’s been decided that that is the right way to say it, possible by a government agency. The second strives to describe how the language is actually used.
+
+The difference between the two is very easy to see when it comes to pronunciation in Mandarin. For example, see if you can pronounce these words correctly:
+
+    下载
+
+    氛围
+
+    因为
+
+A very large number of people say “xiàzǎi”, “fènwéi” and “yīnwéi”.
+
+And they’re all “wrong”; these words “should” be read “xiàzài”, “fēnwéi” and “yīnwèi”.
+
+So, should you insist on “xiàzài” even if everybody you know say “xiàzǎi”?
+
+For me, the answer is obviously “no”. I’m much more interested in what people actually say. The only case where you would care about something like this is if you deal with test preparation or any other situation where being right is important.
+
+For example, over at Skritter, we try to adhere to the standard for the simple reason that it would be next to impossible to decide which version to use if we can only choose one; research would have to be done on each individual word! Also, you might still get points deducted for saying or writing “xiàzǎi” on an exam, but if you write “xiàzài” and lose points, the government has your back.
+How to approach the problem?
+
+I realise that I haven’t helped you solve this problem, but I hope I have given you a few things to think about and a less secure idea of what “correct” language actually means. I didn’t do that to be mean, but to help you relax a bit and obsess less about always following a standard.
+
+Naturally, I don’t want students to stop trying to produce grammatical sentences and pronounce Mandarin well. Native speakers have had a life time to learn their language and they can do what they want; it’s their language after all. If you barge in with your home-made grammar and pronunciation, that won’t work.
+Don’t be so sure
+
+When you ask someone how to say something in Chinese, you can be sure that the answer you get is correct from that person’s perspective, but that doesn’t mean that it’s universally accepted by all speakers of Mandarin.
+
+The difference in asking a competent teacher or an expert isn’t that they will give you a more correct answer, it is that they are aware of the fact that there are more answers than one and that they might be able to provide you with the one that will serve you best as a student. This ability is very important and shouldn’t be underestimated!
+
+Next, you should try to increase the quality of feedback you receive. Simply hearing that something is either “right” or “wrong” isn’t very helpful. Ideally, you would like to know how wrong it is and if it might be acceptable under other conditions. It might be interesting to know that while pronouncing 研究 as yánjiù might be frowned upon on the Mainland, but it’s the standard pronunciation in Taiwan.
+
+Finally, the problem of flexibility mostly affects understanding of the language (listening and reading). If there are ten ways of expressing something, you don’t need to master all of them yourself. On a very advanced level, this might still be desirable, but at lower levels, being able to express what you want in one way is enough.

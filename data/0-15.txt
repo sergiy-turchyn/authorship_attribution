@@ -1,0 +1,74 @@
+
+How to learn to hear the tones in Mandarin
+
+tonesWhen we are born, we perceive the world around us largely without filters and without sorting things into categories. In order to make sense of the world, establishing categories and sorting our impressions into them is necessary, not least when it comes to languages and the sounds they consist of.
+
+Without sorting the incoming information into meaningful categories, communication would not be possible. Learning our first language is therefore about figuring out which features are important and which can be ignored. We also need to learn which categories are used in our native language and where the boundaries between them are.
+
+For infants, this process is automatic and almost always successful. That’s not the case for adult learners. In this article, I’m going to introduce two methods to learn to hear the difference between new sounds, as well as my research project to help you learn to hear the tones in Mandarin.
+
+Speech sounds and categories
+
+Even though the sound structure (phonology) of languages is surprisingly regular, there are of course differences in how sounds are sorted. A “p” in one language might sound like a “b” in another; vowels are often even more complex. Another very good example of this is tone, as it appears in languages such as Mandarin and most other Chinese dialects.
+
+If you come from a non-tonal language background, you need to establish new phonological categories. You need to learn the difference between the tones and how to accurately tell them apart. Even if you speak another tonal language, you still need to adjust your categories to fit Mandarin, which might in some cases even be harder than learning the tones from scratch.
+
+Learning to hear new sounds as an adult
+
+Establishing new phonological categories as an adult is not easy, but it’s clear that it can be done, otherwise no English native speakers would be able to hear or pronounce the tones in Mandarin, which is obviously not the case. Some people are very good at hearing the differences between new speech sounds and quickly form categories resembling those of a native speaker.
+
+But what about the rest? Can your ability to hear sounds be systematically trained? If so, how? What factors influence our ability to establish new categories for speech sounds as adult learners?
+
+This is the topic of my research. Since I’m mostly interested in Mandarin, and tones constitute a unique challenge for adult learners, this is what I have chosen to focus on. In short, I want to find a scientifically sound way of helping students to form the correct tonal categories so they can identify the tones in Mandarin.
+
+How to learn to hear the tones in Mandarin
+
+In the meantime, I want to discuss two methods that have proved successful when it comes to teaching adults how to identify new speech sounds when learning a second language. Both these methods were originally researched for other features than tone (such as voice onset time, meaning aspiration and voicing; and r/l distinction for Japanese learners of English), but they have since been tried with Mandarin tones as well.
+
+Variation of training audio
+
+One of the most successful methods relies on systematic feedback using audio produced by several native speakers. Compare this with the normal foreign-language classroom situation where one or at most two native speakers are heard, rarely in a systematic fashion.
+
+If you remember what I wrote in the introduction, it’s not hard to understand why it’s a good idea to use several different voices. Human speech contains a huge amount of information, but most of it is not used to determine the meaning of what is said.
+
+For example, when it comes to tones, a child’s pronunciation is higher than an adults, and most women have a higher pitch than most men. Yet this does not lead to difficulties in hearing the tones, at least not for native speakers. The same can be said for other factors that make voices sound very different, even though they are obviously saying the same thing.
+
+If your brain knows which sounds it’s hearing and also hear these sounds from a number of different speakers, it will have the information necessary to figure out which parts are crucial for understanding and which are just down to personal differences between speakers and can be ignored. For instance, absolute pitch height is not a crucial part for identifying tones; it’s how the tones change that matters. All fourth tones are falling, but they start and end on different height depending on the length and thickness of the speakers vocal chords.
+
+This is the principle I’ve built the tone-training course on. In essence, it puts the learner through systematic exposure of tones spoken by different speakers, gradually helping the student to form the correct categories for the basic tones in Mandarin. Again, if you’re interested, please check this article.
+
+My guess is that many readers will already be too advanced, but then I hope you’re willing to help me out anyway. You probably know other people who want to start learning or who need help with their tones. Could you please help me spread the word?
+
+My own research: Helping you to hear the tones
+
+This is a slow process since each step needs to be supported by evidence from either previous studies or my own research, but I certainly don’t start from scratch; this topic has been researched for several decades.
+
+In order to advance our understanding of how tone learning works and thereby help students to learn more efficiently, I have created a tone-training course, together with Kevin Bullaughey over at WordSwing. Here’s some information about the course:
+
+    It targets any learner who has not yet mastered basic tones
+    It can be used on your computer or phone, as long as you have internet access
+    It’s built on previous research into tone learning
+    It’s effective (based on pilot-study data)
+    It’s free
+
+The course will be available soon, hopefully next week. You can sign up here if you want to be notified when we’re ready to receive students:
+
+The course is now available, read more here:
+
+The tone training course is now open
+
+Learning by exaggeration
+
+Above, I mentioned that there are two methods that seem to work well. The other one relies on something which should be familiar to most readers: child-directed speech (CDS). That’s the exaggerated, slightly high-pitched language adults instinctively use when they speak to children. This also works for adults, or at least the exaggeration does.
+
+The idea is that if the learner needs to identify a boundary between two distinct sounds, it makes sense to first learn to identify two very exaggerated versions that will be impossible to miss. For example, if you pronounce Pinyin “p” with so much aspiration that you knock the student off his or her feet, the student is unlikely to miss the point. Then, you gradually decrease the exaggeration until you reach more naturally sounding aspiration.
+
+Let’s look at an example with tones, namely the difference between the second and third tones, which is the most difficult one for most learners. The main difference is that the third tone rises much later. They both have a dip. By starting out with second tones that rise very, very early and third tones that rise very, very late, you can help the student identify the crucial component (the turning point). Then you gradually reduce the exaggeration and approach the actual boundary between the two.
+
+This method works particularly well if you have already identified two similar sounds that you find difficult to distinguish, but it’s harder to use as a general approach for learning new sounds (you need to contrast two sounds and it’s not always obvious which sounds you should combine). Still, the principle of exaggeration works in general and can be used with teachers or language exchange partners.
+
+Conclusion
+
+As an adult learner of a tonal language like Mandarin, you need systematic input from a number of different speakers. That will allow you to gradually identify what part of the input is essential for determining meaning and what can be safely ignored. I hope you are willing to help me with this research project, either by joining yourself or my spreading the word!
+
+Learn more about how to join the course.

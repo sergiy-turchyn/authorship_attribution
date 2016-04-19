@@ -1,0 +1,70 @@
+
+Learning Chinese through comprehensible input
+
+Comprehensible input for learning ChineseI often get questions about what students should listen to for optimal learning. There is no simple answer to that question except possible “more”, which is definitely not the desired answer.
+
+I think you should vary your listening practice as much as possible, not only in terms of content and style, but also when it comes to difficulty level. If you’re just after some quick suggestions for good listening materials, check this article: The 10 best free listening resource collections for learning Chinese.
+
+In this article, I will talk about what you should listen to in general and comprehensible input and the role of understanding in particular.
+Diversify your listening practice
+
+This is something I have discussed before, but I’ll summarise the main points here with links to more reading.
+
+    You should listen as much as you can. This is relatively straightforward, at least in principle.
+    You should challenge yourself as much as possible without violating the first principle. In practice, this means that if the material you listen to becomes too demanding for you to continue, rather than stopping, you should listen to something simpler that requires less energy instead.
+    You should understand what you listen to.
+
+This third principle is what this article is about.
+Comprehensible input
+
+When I wrote my review of ChinesePod, I used the word “comprehensible input” without thinking too much about it. I said:
+
+    While it’s impossible to fill your days with comprehensible input entirely in Chinese at a beginner level, you should try to avoid English as much as possible.
+
+If you have even just a few academic credits in linguistics or second language acquisition (SLA), this term will be already familiar to you, but if you haven’t, it’s worth exploring the concept and how it relates to learning Chinese. The implications are of course important even if you don’t care about SLA theories at all.
+
+Before we look closer at comprehensible input, though, I want to point out that it’s related to a certain set of theories or hypotheses presented by a linguist called Stephen Krashen. While I will explain comprehensible input here, the goal of this article is not to give a full picture of Krashen’s theories. I will focus on a small part and see how that relates to learning (and teaching) Chinese. This is also what I feel is the most useful part of Krashen’s ideas, but if you want to get a decent introduction, this article is okay.
+KrashenStephen Krashen’s input hypothesis
+
+The core idea of comprehensible input can be seen in the formula i+1. The “i” represents input that the learner can already handle. +1 represents the next step in the language learning process (according to one of Krashen’s other hypotheses, there is a natural order to these). Since it’s hard to know exactly what the next step is, providing comprehensible input that contains language that might be the right next step for you is the best (only) way. In order to take this next step, you obviously need to understand the material as well.
+
+According to Krashen, the only way learning can take place is through comprehensible input, i.e. acquiring words and structures you’re ready to learn from input that you can make sense of. Deliberate studying or speaking may facilitate learning in that they create situations where you are exposed to comprehensible input, but they are in themselves not the cause of learning.
+
+On lower levels, the main problem is not to present content that contains new things you can learn, it is to find material you can understand so that learning can take place. As I said in the ChinesePod review that lead this article, it’s impossible to do independently for beginner learners. Even with a private tutor, it will be difficult to keep this up for long periods of time. When you get past the beginner level, it becomes much easier, but authentic material still needs to be adjusted.
+
+The focus is on being exposed to and processing as much comprehensible input as possible, which will naturally lead to acquisition of words and structures in the target language. Little focus is placed on explicit instruction and speaking comes naturally as the result of learning.
+
+Update: In earlier versions, I said that “i” stood for “interlanguage”, which isn’t right. Diane Neubauer actually e-mailed Stephen Krashen about this and it turns out “i” doesn’t stand for anything, it’s just an arbitrarily chosen letter.
+Not as crazy as it might sound
+
+This might sound crazy to some readers, especially the bit that output doesn’t lead to learning, but in a way, it’s true that you don’t learn new things about the language when you speak yourself. You do learn from the feedback you get from others, what they say and so on, but it’s certainly the case that producing sounds with your mouth doesn’t teach you new words or grammar. Learning has to have taken place before that, speaking is just the result.
+
+In my opinion, this overlooks the skill component of language learning. Even if you can understand something very well, you might not be able to say it, and even if you can say it, becoming fluent in Chinese requires an awful lot of speaking. This is not merely because you need the input from the people you speak with, it’s because finding the right words, stringing them together into meaningful sentences using pronunciation that is clear, requires a very large amount of practising exactly those things. No amount of input will give you that. I agree that Input is the foundation of those skills, but it’s not the only thing you need.
+The role of studying for understanding input
+
+There is little support for the claim that deliberate studying has no effect on learning beyond the input it exposes you to. In my experience, you can improve the results drastically by studying (looking up words, studying them, adding them to your spaced repetition system, drilling them with a teacher and so on), which is particularly useful for adults learning a second language.
+
+Complete immersion is not really an option for most adults, at least not for extended periods of time. In fact, even if you do have the opportunity to go for complete immersion, I’m fully convinced that deliberate studying combined with comprehensible input will be far superior to just comprehensible input.
+How much should you understand? When?
+
+Another thing we need to discuss is under what conditions understanding takes place. I strongly believe that understanding is essential when listening or reading, so just hearing meaningless syllables or reading text you don’t understand will teach your almost nothing.
+
+The more you understand of what you hear, the better chance you stand of learning something. However, even if you only understand occasional words, listening will still train you to identify these words in speech and therefore serves as a review and skill improvement method. Still, listening to things where you only understand a few words here and there is certainly not the best way of spending your time.
+
+I do believe that you can learn a lot from difficult input too, but it requires much more effort. You might need to listen to something many times to understand what it’s about or you might need to peek at the transcript to fill in the words you didn’t get, but this kind of practice is still very useful, even if you didn’t understand much the first time around.
+
+If you go too far in the other direction and make listening too easy (which is rarely a problem), you will learn little from the input since you already know everything. However, as I said above and will discuss again below, listening is also a skill you need to practise. Being able to understand a word is not enough, you need to do it efficiently and quickly.
+Listening speed and i+0
+
+This is related to what I call listening speed, which simply is the speed at which you can understand spoken Chinese. In my experience, most students of Chinese suffer from problems with listening speed. This means that they can actually understand quite a lot, but that they do it too slowly, which means that in practice, they find it very difficult to understand spoken Chinese.
+
+It’s easy to check if you have problems with listening speed yourself. If you can slow the audio down or listen many times, and only then understand what’s being said, then you have this problem. If you find that the reason you didn’t understand is that there are too many unknown words, then that’s what you need to work on.
+
+You need to be bale to associate a spoken word with its meaning almost instantaneously. It’s not enough to understand a word after five seconds of trying to find the answer; it has to just be there. This is also one of the main difference between reading and listening: when you read, you can vary the speed yourself, but when listening you can seldom control the rate of speech.
+
+The only way to get around this problem is to listen more. If you don’t understand what you’re listening to, practising will have little effect. However, don’t be dismayed if you don’t understand the first time, you might need to listen more than once.
+Conclusion
+
+I would say that the main goal when you listen an read is to understand what you’re doing, perhaps not immediately, but then at least after trying a few times. If you don’t understand, you won’t learn much. It’s also incredibly hard to stay focused on something which isn’t meaningful and motivation will disappear quickly. If you can make sense of what you’re exposed to and you listen and read a lot, the material will present you with plenty of learning opportunities.
+
+You should vary the difficulty of the audio you listen to. The bulk of listening should be made up of material that is slightly above your level, which will make it easier to learn the things you didn’t already know. However, it’s perfectly fine to go for easier content when you’re tired or more difficult material when you have the energy and the time to do the supplementary studying needed. You might not acquire new words and grammar automatically by doing so, but you can still improve your listening ability!

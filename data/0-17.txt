@@ -1,0 +1,62 @@
+
+The real challenge with learning Chinese characters
+
+When talking about learning Chinese characters with people who haven’t learnt Chinese yet, there are two kinds of reactions.
+
+Is it hard to learn 3500 Chinese characters?
+
+Most people seem to think Chinese is next to impossible to learn because you need at least 3500 characters to be literate (or 2500 or 4500 or whatever). Of course, you also need to know words and grammar, but let’s leave that out of the equation for now.
+
+A few people react the opposite way,t though, which is more interesting. Learning 3500 facts is not really that difficult if you’re dedicated and take a year or so to do it. That’s about ten per day for a year, which isn’t unreasonable! It could even be done much faster if you spent more time.
+
+In this article, I will look at both these approaches, which will lead us to what I believe is the real problem when learning characters. Becoming literate in Chinese is definitely not impossible, but learning 3500 characters is much harder than learning a similar number of facts in many other disciplines, such as the natural sciences.
+
+Early-stage character learning
+
+When you start learning characters, it feels more like drawing than writing. The difference is profound. If you write, you use certain written symbols to convey meaning according to a clearly defined convention (a written language), but when you draw, even if you convey meaning in some way, the conventions are much loser and less strictly defined. To move from drawing to writing, you have to learn the conventions and rules of the language. This takes time.
+
+Therefore, for beginners, the main problem is to commit characters to memory, to remember how they are written, what they mean and how they are pronounced. This is something you get better at the more you do it.
+
+It’s also an area where lots of hacking is possible, which means that if you can break the code, you can learn how to learn characters quickly (for example, figuring out how phonetic components work).
+
+When you have reached such an pre-intermediate stage in Chinese, or when you’ve learnt how to remember things in general, you might think that learning a few thousand more characters won’t be that difficult.
+
+And you’d be right. Learning the characters isn’t the real problem.
+
+The real problem with learning Chinese characters
+
+Before I continue, I’d like to say that learning 3500 facts of any kind is not trivial, so if you think it’s hard, don’t feel discouraged. Instead, read this article: Remembering is a skill you can learn.  What I want to talk about next is that the real, long-term problem with learning Chinese characters isn’t committing new characters to memory.
+
+Instead, the real problem includes:
+
+    Multiple meanings, pronunciations and alternative writings
+    Learning how the characters are used (on their own, in words)
+    Keeping similar characters separated (meaning, writing, pronunciation)
+
+Learning a Chinese character isn’t like learning the name of the capital of a country, although that’s what it might look like for the uninitiated. The capital of France is Paris. 女 in Chinese means “woman”.
+
+Unfortunately, that’s not how Chinese works. If you know 3500 characters at this very superficial level, you will be very, very far from literate in Chinese, even if you know the relevant grammar. Some characters have dozens of seemingly unrelated meanings, several pronunciations depending on context and are used in different ways in different words.
+
+Keeping similar characters separated
+
+Learning to relate characters to each other is perhaps the most daunting task. It’s not enough to just learn a character, you need to know how it’s different from or similar to other characters you have learnt. I have written much more about this problem in this article:
+
+Panning: Keeping similar Chinese characters and words separate
+
+invgraph3So, in a sense, the difficulty of learning characters can be illustrated with an x-shaped graph (see graph). The difficulty of committing each character to memory decreases steadily and quickly ceases to be a problem.
+
+However, the difficulty of relating each new character to the other characters you have already learnt becomes harder.
+
+I seldom feel that learning what a character means is difficult any more, but I still struggle with sorting out difference between characters, sometimes regarding their definition, sometimes their usage and sometimes about how they are written.
+
+What do do about all this?
+
+In summary, learning a large number of characters properly is hard. However, it’s important to not lose focus. When you start learning, don’t try to learn everything. If you look up a character in a dictionary, you will find dozens of definitions. Never try to learn all of them. You will also encounter character variants and different pronunciation, but you should ignore them until you actually need them. Don’t get bogged down in details before you have the bigger picture. Don’t poke the monsters from beyond the bubble.
+
+This means that it’s okay to simplify character learning as much as possible. It’s okay to learn one single definition and one way of using a certain character, intentionally ignoring that there may be much more to learn. What you learn should be guided by what you need, not by what there is to learn. When you leave the beginner stage, you need to start connecting knowledge much more, which I’ve written more in the article linked to earlier (Panning: Keeping similar Chinese characters and words separate).
+
+Conclusion
+
+Learning enough about the 3500 most common characters to be become literate is not impossible and can be achieved in a limited amount of time. Truly mastering these 3500 characters and how they are used to the level of an educated native speaker is a lifelong project that you’re unlikely to finish any time soon, if ever.
+
+Fortunately, success isn’t of the binary success/failure kind. Every step forward you take is good. Exactly how far you want to walk depends on who you are, why you’re learning Chinese and many other things. And don’t forget that the journey matters, this is part of what makes Chinese interesting!

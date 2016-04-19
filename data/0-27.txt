@@ -1,0 +1,61 @@
+
+Learning to pronounce Mandarin with Pinyin, Zhuyin and IPA: Part 1
+
+When we start learning the sounds of a foreign language, we’re faced with several different problems at once. The most important task is to learn to discriminate between and then correctly identify the different sounds. What sounds you find difficult depends on a number of factors, including which languages you already speak and the difficulty of the sounds themselves (some sounds are inherently more difficult).
+
+Once you know how a sound is pronounced, you can start experimenting with pronouncing it yourself. Your first goal should be to pronounce Chinese in a clear way that doesn’t lead to listeners misunderstanding what you say because of your pronunciation. This goal is achievable for all learners, but it does require more effort than most courses will require you to invest. Take responsibility for your own learning. Naturally, perfecting pronunciation is a long process of constant adjustment and polishing,
+
+Writing down Mandarin pronunciation
+
+Apart from knowing the actual sounds used in Mandarin, you also need to be able to read them in written form and to write them yourself. This is because as an independent adult learner, you can’t rely on a teacher spoon-feeding you all the Chinese you need to know, you have to be able to look things up in dictionaries, take notes and so on. Writing is an excellent way to extend human memory, so learning how to read and write Mandarin pronunciation is necessary. It’s not very hard either, considering that all the systems in use are much more regular than English.
+
+Steps to learn to pronounce Mandarin
+
+Before I continue, let’s summarise the three steps I’ve outlined so far:
+
+    Identifying sounds and tones
+    Pronouncing sounds and tones
+    Writing and reading sounds and tones
+
+In an ideal learning environment, you should learn to identify sounds before trying to pronounce or write them yourself. Which step comes second is not as important.
+
+This is not a question of mastering listening before speaking, it’s about having a good idea of what you’re aiming for before you shoot. Since most students want to learn useful things, you shouldn’t deliberately postpone active practising more than necessary. As soon as you can hear the difference between certain sounds, start pronouncing them.
+
+In the same ideal learning environment, I advice against learning to write pronunciation at the same time as you learn to listen. This distracts you from hearing the sounds, especially if the system you use to write down sounds uses symbols you know already (Hanyu Pinyin), but which represents different sounds than what you’re used to.
+
+Looking at pronunciation written down also moves the focus from the spoken word to the written, which is common in many courses and classrooms, where written language is almost always viewed as more interesting, important and valuable than the spoken language.
+
+What I’m saying here holds true whatever transcription system you use, unless it’s the IPA (International Phonetic Alphabet) and you’re a trained phonetician who can read most of the relevant symbols before you start learning Chinese. All other learners will be too distracted by writing, either because the symbol-sound mapping is slightly different from what you’re used to or because you need to learn the symbols from scratch (Zhuyin).
+
+I’m going to discuss IPA, Hanyu Pinyin and Zhuyin in a follow-up to this article.
+
+Don’t create your own transcription system
+
+Many students take a shortcut here, using their native language to write down new pronunciation. I’ve seen many students do this in both directions, i.e. students learning Chinese writing down pronunciation in English (“woe she may go run”) or Chinese students using characters to approximate English pronunciation.
+
+I mention Chinese students here because I want you to look at a few examples of how foreign names are written and Chinese and then tell me whether or not you think this is a good way of writing down pronunciation:
+
+    格陵蘭 (Gélínglán) – Greenland
+    羅伯特 (Luóbótè)  – Robert
+
+If you want a more detailed discussion of names, please check my earlier article about this here.
+
+Foreign names written down with Chinese characters result in approximations, sometimes reasonably close ones, but often completely off.
+
+How well do you think it works using English to write down Mandarin pronunciation? Naturally, Mandarin has a much more rigid syllable structure than English and that makes it easier than writing English with Mandarin syllables, but unless you add tones yourself, the result will be equally horrible, you just don’t hear it.
+
+The lesson here is: Don’t do it. Either learn a proper system for writing sounds down or don’t do it at all. It’s perfectly fine to stay with resources that have audio and text combined until you learn the transcription system. Make sure you get a dictionary that has proper pronunciation (Pleco has add-ons with manually recorded male and female audio). Listen more than you speak. Learn the oddities of the system you’re using.
+
+Which transcription system should you use?
+
+The next question we need to answer is which system you should use. There are at least three viable alternatives, even though there are of course others:
+
+    Hanyu Pinyin (usually just Pinyin)
+    Zhuyin Fuhao (Bopomofo)
+    IPA (International Phonetic Alphabet)
+
+In the next article, I will discuss using these three for learning Mandarin. In general, your ability to pronounce Mandarin isn’t strongly linked to which system you use since other factors matter much more, such as how much you practice, how you practice and how much good pronunciation matters to you.
+
+However, these three systems still have their respective merits and without going into further details in this article, serious learners will benefit from learning more than one transcription system, regardless of which system they started out with.
+
+Continue reading!

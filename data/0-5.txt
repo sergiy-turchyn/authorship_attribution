@@ -1,0 +1,48 @@
+
+Learn Chinese character meaning and pronunciation together
+
+Phonetic components in Chinese charactersIt becomes increasingly common to argue that it’s okay that the knowledge of written Chinese lags behind that of spoken Chinese for beginners. This means that you don’t have to learn how to write everything you learn how to say. I think this is generally a good idea and I don’t think this topic ought to be as controversial as it is.
+
+Although less discussed, there’s also the opposite approach, which involves learning to write characters first (meaning) and then learning how to pronounce them later. The most common method of this kind was developed by James Heisig, first for Japanese and then for Chinese (both simplified and traditional).
+Learning meaning without pronunciation
+
+The system teaches you to write the 3000 most common characters. This is done in the order that makes the most sense for learning the characters, not the order in which the characters are useful in the short term. It also ignores pronunciation, which is what I want to talk about in this article.
+
+Is this good? As usual, there is no easy answer to that question because it depends on what you’re after. If you have a very heavy focus on reading and writing, and have no access to teachers and/or native speakers, it might indeed be a good idea to ignore how the characters are pronounced. Allegedly, this makes it easier to learn, but there are other, less controversial benefits such as avoiding bad pronunciation habits since you have no-one to correct you.
+Learn Chinese character meaning and pronunciation together
+
+However, I don’t think this applies to most students and there are few scenarios where I would advocate this approach. It creates an unnecessary disconnect between the spoken and the written language. If you don’t learn to speak at the same time as learning characters, you will see no connection between the two, which is bad because they do reinforce each other quite a lot, even though the writing system is far from phonetic.
+
+Even if you don’t learn to speak at the same time, though, I still don’t think you should learn character meanings without also learning how they are read. Why? Because a vast majority of characters look the way they do because the way they are pronounced. If you don’t learn pronunciation, you will therefore have no clue why characters that mean completely different things are all written in similar ways. A good example of this would be:
+
+    吗/嗎
+    妈/媽
+    码/碼
+    骂/罵
+
+Without knowing that these characters are all pronounced in a similar way (all are pronounced “ma” with different tones), it’s impossible to understand why they contain the horse component, even though none of them has anything to do with horses. Sure, you could create mnemonics for them and learn them anyway, but everything simply makes less sense if you skip pronunciation.
+Chinese characters don’t make much sense without pronunciation
+
+And remember, this is not the exception! When you go through the basics of Chinese characters in many courses and textbooks, you’re often left with the impression that Chinese characters are pictures or combinations thereof.
+
+Phonetic components and sound-meaning compounds are mentioned, but not as much and as in-depth, perhaps because it’s harder to produce cute pictures for these that spontaneously make sense for the student.
+
+However, it remains a fact that more than 80% of all characters are sound-meaning compounds.
+
+Think about that for a second or two. More than 80%.
+
+And you miss all that if you don’t learn pronunciation. Of course, even if you know how to pronounce characters, you don’t automatically know how to write them, even if they share a sound opponent, but it becomes much easier.
+
+And it makes sense, which is essential for learning.
+Pronunciation is a powerful aid for writing characters
+
+In some cases, you can guess how they are written based on how they are pronounced, but perhaps more often, pronunciation can serves a as powerful clue. The more you know about characters, the more useful this becomes.
+
+Advanced learners and native speakers can often guess the pronunciation of rare characters based on the components, or, remember how to write them because they know how they are pronounced.
+
+When I review characters in Skritter nowadays, I almost never forget how to write the components themselves, it’s always about which components that should go in a specific character. In a large number of cases, this can be easily remembered by knowing how the character is pronounced.
+Conclusion
+
+In general, the reason that I don’t advocate learning characters separately from pronunciation is that it hides the logic in Chinese characters. The best way of learning and remembering anything, but perhaps characters in particular, is to understand them. You can create your own system to do this, but why not rely on the actually system the characters are built on instead?
+
+What do you think about this? I would be particularly interested in hearing comments from people who have used Heisig’s method, please leave a comment if you have!

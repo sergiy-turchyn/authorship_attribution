@@ -1,0 +1,55 @@
+
+Should you learn the pronunciation of radicals?
+
+When learning Chinese as an independent student, you constantly need to ask yourself three questions: what to learn, how to learn it and how much time you should spend on that particular thing. The first of these questions is in a sense the most important one; you don’t want to miss important things and you don’t want to waste time learning things that aren’t important. For example, should you learn the pronunciation of radicals?
+Radicals, character components and pronunciation
+
+I see this question often, usually right after people have realised or been told that they should break characters down and learn the building blocks. The answer depends on what you mean. Strictly speaking, the answer is “no”, but if you’re a beginner asking the question and you haven’t got your terminology right, the answer might be “yes”.
+
+Let’s get the terms straight. A radical is a character component that is used to index that character in dictionaries. Each character has one and only one radical. There are different lists of radicals used in different time periods, regions and for different purposes. The character components on these lists are used as radicals, but it should be clear by now that they are not necessarily the radical in any character they appear in.
+
+Here’s an example:
+
+    知 (zhī) “to know”
+    扣 (kòu) “to fasten”
+
+In the first case, 知, the radical is 口 “mouth; opening”, in the second case, 扣, the radical is 扌, a variant form of 手 “hand”. As you can see, 口 is (often) used as a radical, but now in all characters it appears in. As I said, radicals are for indexing, not understanding characters.
+Should you learn radicals in the first place?
+
+Why do people talk so much about radicals? If it’s from a second language perspective, it’s mostly because they are mistaken about what radicals are or they have given up and just use the term anyway since most learners will look for that (I’m guilty of this myself). Learning common radicals is useful, not because they are radicals, but because they also happen to be common semantic (meaning) components. Learning which component is the radical in a specific character is useless in a modern setting.
+
+radicalsThe problem with most lists of radicals is that they aren’t suitable for language learners. They are often sorted by number of strokes and include radicals that are extremely rare and pointless to learn. To fix this problem, I have created a list of 100 common radicals that you actually should learn. It looks like this and you can get it as a PDF, text or Anki file here.
+Same components, different radicals
+
+There are actually characters which have the same character components but not the same radical. Here’s one example of that, fetched from my article about characters with the same components:
+
+    呆 (dāi) “dull, stupid” – the radical is 口
+    杏 (xìng) “almond; apricot” – the radical is 木
+
+I hope it’s clear by now what the difference between a radical and a character component is. Let’ move on!
+Should you learn the pronunciation of radicals?
+
+Now it’s time to have a look at the original question: Should you learn the pronunciation of radicals? If you really meant radicals, the answer is in general “no”. Many of the radicals have very strange pronunciations that even native speakers don’t know.
+
+The only ones you want to learn are those that are also common characters in themselves and you will see them as just that fairly soon. In my article about the 100 most common radicals, I include this information. All the pronunciations written within parentheses can be safely ignored:
+Pronunciation of radicals
+
+Please note that these are the most commonly used radicals. If you look at a complete list sorted by number of strokes, a much larger amount will be useless in terms of how they are pronounced.
+
+However, if you actually meant “character components” when you asked the question about pronunciation, the answer is that it depends. More than 80% of all Chinese characters are made up of a semantic (meaning) component and a phonetic (sound) component. Learning the pronunciation of common sound components is extremely important! If the component in question is not a common phonetic component, you should only learn it if it also works as a separate character as described above.
+Colloquial names of radicals
+
+I said above that most native speakers don’t really know how to pronounce many of the radicals. Try asking Chinese people how to pronounce 辶, 宀 or 彳 and you’ll see what I mean. You are very likely to be told their colloquial names, not how these characters are pronounced individually.
+
+Here they are:
+
+    辶 = 走之旁 (zǒuzhīpáng)
+    宀 = 宝盖头/寶蓋頭 (bǎogàitóu)
+    彳 = 双人旁/雙人旁 (shuāngrénpáng)
+
+Learning these colloquial names is very useful if you talk about handwriting with native speakers a lot, such as if you want to ask someone how to write a character verbally. For beginners, this is overkill, but for intermediate and advanced learners who care about characters, you should learn the most common ones.
+
+Again, this information is included in my 100 most common radical list:Colloquial names of radicals in Chinese
+Conclusion
+
+Don’t learn the pronunciation of the radicals unless they are also common characters on their own (in which case you will encounter them as such anyway). Here’s a rule of thumb: if the pronunciation of the whole character is completely different from the character component you’re looking at, you can skip learning its pronunciation. You probably still wan to learn what it means, of course, since this is the foundation of meaningful character learning in general.

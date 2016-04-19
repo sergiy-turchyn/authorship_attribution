@@ -1,0 +1,61 @@
+
+Learning to pronounce Mandarin with Pinyin, Zhuyin and IPA: Part 3
+
+In two previous articles, I have dealt with the role of transcription systems when learning pronunciation (read the first article here). Should you learn pronunciation with Pinyin or Zhuyin? When should you learn these? Does it matter?
+
+In the second article, I concluded that if you’re really interesting in pronunciation and want accurate descriptions, you should use a third system, the IPA (International Phonetic Alphabet). It’s the only system available which is meant for phonetic notation and will show you how things are actually pronounced.
+
+Why learning IPA is a good idea
+
+The main difference between children and adults when it comes to learning pronunciation is that the children typically learns pronunciation perfectly, whereas adults need to work hard to achieve good results. Learning as an adult is qualitatively different. One of the main difference is that we benefit from understanding what we’re doing. A child doesn’t need to be told the difference between sounds, but in some cases, adults need that.
+
+As we have seen it the previous two articles (and this article about traps and pitfalls in Pinyin), the problem with the commonly used transcription systems is that they aren’t transparent. Each letter or symbol can stand for a number of different sounds. You need to learn a number of rules to keep track of that and if you don’t learn them properly, your pronunciation will suffer as a result.
+
+IPA doesn’t have that problem. If a word is pronounced with a different sound, it’s written with a different symbol. It shows you in writing what your ears may fail to hear. This is no guarantee that you will learn native-like pronunciation, but it’s a step in the right direction.
+
+I have written more about how theory (and understanding) can be beneficial for learning pronunciation here:
+
+How learning some basic theory can improve your pronunciation
+
+How to learn IPA to improve Mandarin pronunciation
+
+I have already stressed the importance of understanding for adult learners, which means that if you treat IPA just like another alphabet, it’s of little use. You need to learn not only how syllables are written using IPA, you also need to know what the symbols mean and how the sounds are produced. This requires a certain understanding of how the human voice works and how the sounds of languages are structures (phonology).
+
+This is not going to be a complete guide to Mandarin pronunciation, even though that’s something I want to create at some point. Instead, I’m going to look at the steps involved when learning IPA for the purpose of improving your pronunciation:
+
+    About phonetic transcription
+    Basic understanding of consonants
+    Understanding consonants in Mandarin
+    Basic understanding of vowels
+    Understanding vowels in Mandarin
+    Basic understanding of tones in Mandarin
+
+Exactly how deep you want to go depends on your goals and how interested you are. I suggest you start with the Wikipedia articles I’ve linked to above. For general phonetics, there are lots of textbooks and website to help you out if you need more. For Mandarin-specific information, the Wikipedia article on Standard Chinese Phonology (linked to above) is a good place to start.
+
+However, you can’t read your way to a good understanding of phonetics, you need to actually try it out. When you learn about consonants, dissect the sounds of both Mandarin and your own language. Can you feel the differences between the sounds? Can you describe the differences? When you learn about the vowels, can you feel the vowel space in your mouth and how the vowel changes depending on the tongue position? Can you draw or recognise the pitch curves of the tones?
+
+Ideally, you do this with a teacher, but you can get pretty far on your own too. I was fortunate enough to be introduced to English phonetics by a brilliant professor who showed me how interesting the subject can be. The human voice and how it’s used to communicate in various languages is a very fascinating area of study. If you don’t agree, you probably haven’t opened the door yet!
+
+Resources for learning IPA
+
+I have used IPA for research, teaching and learning purposes for many years and have thereby acquired some very useful resources if you want to do likewise. Here’s a selection of my favourite links:
+
+    Standard Chinese Phonology (Wikipedia) – This is a good place to start, mostly because more information is (almost) always available. This might lead you to an endless maze of articles, but if you stick to the gist of each concept, you can learn a lot in a brief amount of time.
+    Traditional Pinyin chart in IPA – This is a handy reference. It works the same way as an ordinary Pinyin chart, but for IPA (it’s still sorted by Pinyin initials and finals, in other words). Note that this table includes some syllables that aren’t present in Mandarin.
+    IPA, Pinyin and character converter – This handy tool allows you to convert any text written in Pinyin or Chinese characters into IPA. Note that this transcription is narrower than the others shown here and might be too detailed, but it’s still a useful tool.
+    Praat – This program allows you to analyse sounds and is a must for anyone who wants to really understand how this works. While you can learn to see pitch contours of tones quickly, learning to analyse vowels and especially consonants is not trivial. I wrote a few articles about than on my personal blog a few years ago: part 1, part 2, part 3.
+    王理嘉、林燾. (2013). 語音學教程. This book is the best introduction I know of. It’s available in simplified characters too. I like this book because while being short, it still covers most of the material you need to know. I wish I had been the first book about Mandarin phonetics I read in Chinese rather than the fifth. If you know of any good introductory work in English, please let me know, I have been unable to find one.
+
+Naturally, these resources are aimed towards understanding the International Phonetic Alphabet and phonetics in general. If you’re after improving pronunciation in particular, I suggest that you check this article instead:
+
+24 great resources for improving your Mandarin pronunciation
+
+About variations in IPA
+
+Before I round this article off, I’d like to pre-empt some reader questions by saying that linguists are not always agreed on which symbol to use for a specific sound in Mandarin. Therefore, you will find some variation in the material linked to in this article.
+
+That’s okay. There will always be individual and regional differences. There are several ways of slicing the pie and each author will have his or her own reasons for choosing a certain symbol. You don’t really want to get into debates about that unless you’re really, really interested (it will do nothing for your pronunciation). Choose one source and stick with that if you want to avoid problems. I normally use 端木三’s The Phonology of Standard Chinese (Oxford University Press) as a reference.
+
+Conclusion
+
+Learning IPA won’t improve your pronunciation directly, but it will make it easier to understand the sounds you have problems with. It can’t replace a good teacher, but it can be a good complement to one. For me, learning IPA for Chinese was a real eye-opener; I hope it will be for you too!

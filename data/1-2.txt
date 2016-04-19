@@ -1,0 +1,91 @@
+Hi guys!
+
+Hope you’re all well. I’m just now crawling from under my Law school exam-time rock and reacquainting myself with the real world – my apologies for the low number of posts in the last month or two.
+
+I hope you enjoyed the recent guest post on how another fellow Australian learnt Chinese to a near-native level in one year. The good news is that I have lots of ideas for articles and a lot more free time to write them! As you may know, I’m also leaving my hometown of Melbourne to spend around 7 months travelling and studying in China – I’ll be posting regularly about language and culture, and also doing weekly video updates (in Chinese! But with subtitles) to show my progression and to add a bit of extra pressure/accountability from my end. So look forward to that! I leave on January 7th.
+
+MY CHINESE METHOD 
+
+MY TOOLS
+
+    Chinese content to mine words from (podcasts, TV etc)
+    Pleco (a Chinese dictionary app for iPhone/iPad, and probably Android)
+    Microsoft Excel
+    TextEdit (or equivalent)
+    Anki
+    The ChinesePod Glossary (optional)
+    A good old fashioned pen and paper
+
+As a brief introduction to my method, I have developed it after learning about the way my own brain works. As such, it may need to be modified slightly depending on the type of learner you are, or hey, it might work great for you too. I find it to be very time efficient, and through it I am able to learn 20-30 words (often comprising of more than one character) per day in under an hour of study and with a retention rate of about 90-95%. That’s pretty good, I think. However, for it to work the best it can, you really need to do it every day or the process will be disturbed.
+
+The way it works is essentially by creating a maximum number of ‘exposures’ to the new vocabulary, spaced out over time, allowing the words to naturally move from  short-term memory into  long-term one by convincing the brain that the information is valuable, rather than passing stimuli to be discarded. I believe that this repetition, coupled with the relatively stress-free context (in that I’m not forcing the words into my memory but relaxing and letting them enter naturally) is the key to its success.
+Phase 1: Let’s go word mining.
+
+Although one can learn vocabulary from word lists or frequency lists, I greatly prefer finding my own words in the material I’m studying firstly because:
+
+    a) word lists are boring and I’m not a robot, and
+    b) finding words in context is a great aid to remembering them and in particular how they are used.
+
+The two main sources of Chinese I use at the moment are ChinesePod’s Advanced podcasts (which are 100% in Chinese) and the mostly shitty TV shows to be found on Youku.com or on my iPad with the PPS app. The benefit of TV shows is that they generally have subtitles in Chinese characters, presumably because of the range of Chinese dialects and accents (making the words easy to identify and look up).
+
+Phase 1 is to watch or listen attentively and look up and save the new words you hear with Pleco. This is the first exposure. With many other languages this could be a difficult task, but due to the relatively small number of possible sounds in Chinese it is hugely easier to identify new words you hear. I generally search in Pinyin without tones as then I can choose from all available tone combinations according to what I heard and what makes sense in the context.
+
+After this, you should have a list of new words to learn.
+Phase 2: Select and create your list.
+
+From the saved words in Pleco, I then open up Excel and write them down as follows:
+
+As you can see, the first column is the Chinese characters, the second is the Pinyin, and the third is the definition in English. I separate the words I learn on a given day by an empty cell/row. This is the second exposure.
+Phase 3: Learn the CHARACTERS.
+
+In Phase 3, I go through the newly added words and learn the characters and the associated Pinyin (pay attention to the tones!) without trying too hard to do much else. This means that I’m not giving myself a migraine trying to memorise the meaning and how to use the words, although I will challenge myself to try and do this, but this isn’t the goal of this phase.
+
+To learn the characters, I literally go through the list and write out each character a few times by hand. For example, I might look at word #1, write it out a few times and go on to word #2, write that a few times then write both word #1 and #2 in succession (without looking at the characters, just the Pinyin), and then move on to word #3, do the same and then write out the first three in succession. Rinse and repeat. Many words will be easy, often when they contain a character that I already know. When I’m confident that I have sufficiently memorised the character, I will move on, I won’t continue writing it out over and over, as this is inefficient. This is the third exposure.
+Phase 4: Learn the WORDS (with TextEdit and Anki)
+
+At this point, I create a TextEdit document (you can use any other text editor) and make sure that the file is in a format that Anki can read. It should be Plain Text Document in Unicode/UTF-8 format, with the characters being separated from the words with a TAB. You can include the characters here if you want, but I don’t, the reason being that I have already learnt that characters and this stage is about learning the meaning of the word.
+
+Next, I open up Anki (a spaced-repetition flashcard software) and go File>Import and select the recently created text document, making sure that the type is set to ‘Basic (and reversed card)’ meaning that two versions of each card is created. So you will have a card that has the Chinese as the front card and another that has the English as the front card. This tests your recognition and recall memory, respectively.
+
+I do my Anki repetitions on my phone every day whilst eating breakfast. The new words are learnt in a practically effortless, and, dare I say it, fun way.  In my experience, as soon as you start skipping days, not only does the efficiency of the method decrease, but you get slack with your Chinese. So do it every day! Promise yourself! This is, as it happens, the fourth exposure to the words.
+Phase 5: Learn how to USE the words.
+
+It’s all very well and good to know that 礼貌 means manners or courtesy, but you need to get some more exposure to accurately and convincingly be able to use it yourself.
+
+Firstly, if you got the words from a particular podcast or TV episode, watch it again!
+
+However, the most efficient way of doing this in my opinion is by looking up phrases and sentences using the words, and then create some more flashcards in your Anki deck, using Chinese-English sentences this time (make sure there is no reversed card! Turn this setting off).
+
+I use ChinesePod’s glossary – which is a fantastic tool if you’re willing to pay for it. I explain how I create Audio flashcards (this time with Chinese-English sentences rather than words) in my post here. It’s great because you can search a word, and it gives you every instance of its use in ChinesePod lessons, with an accompanying audio file. You don’t need the audio if you’re getting enough listening input elsewhere, but I like to have it anyway to spice up my Anki deck a little.
+
+If you don’t want to pay for ChinesePod (fair enough, it ain’t cheap), then a great way of getting sentences is simply by Googling the word and seeing how it is used in context, or by using an online dictionary that gives example sentences (even Pleco does this). Using Google to identify how words are actually used is explained further in Chris’ post here.
+
+These sentences will provide numerous more exposures to the words in context as they come up when you’re doing your Anki repetitions.
+Phase 6: Refresh Characters.
+
+Unless you’re some sort of Chinese super-computer robot man/woman, you’re gonna need to go back and relearn some of the characters you’ve learn, unfortunately.
+
+The good news is that it is generally easy to identify early on which characters are going to be a pain in the ass to hold on to.
+
+When I’m learning my new words of the day with Excel and my trusty pen and pad combo, I also make sure I go back to the characters from the previous day or two to see if I’ve forgotten any (there are usually a few).
+
+Then, I highlight them in yellow to designate that they may need some more writing practice before they will be committed to memory. When I learn my new words every day, I go back to the very start of my list and do all of the yellow words. If they cease to be hard, meaning that I can remember them with ease, I simply take away their yellow highlight. I also make a point to go back over the words from the last week or so (basically however far back I can be bothered going) and see whether there are words that I once found easy that I am now having trouble writing accurately. It will look like this:
+
+This way, very few words will slip through the cracks. Without a consistent refresh, you probably won’t remember how to write the words forever. However, if you don’t care about writing characters and only want to learn to read them, you can ease up on the character refreshes, AS LONG AS YOU KEEP READING! Otherwise you’ll forget them altogether. It’s very possible to have a passive knowledge of Chinese characters without being able to write them by hand.
+
+Fortunately, though, once forgotten, characters are infinitely easier to relearn compared to when you learn them the first time around.
+The End – What’s next?
+
+That concludes my current method to learning Chinese words and characters. I also make sure I get regular listening input, and speak as much as possible with my tutor.
+
+I wanted to share with you all my December challenge!
+
+As it is the month before I leave for China, I wanted to ramp up the Chinese as to be at a ‘decent’ level when I arrive.
+
+You may remember my one month challenge from a few months ago. I basically kept that level of input up since then (a period of 6 months or so) and progressed from ChinesePod’s Intermediate level lessons to their Advanced ones (which is actually a huge jump, with Upper-Intermediate in between). My spoken Chinese is also infinitely better.
+
+My challenge this month is to learn 500 WORDS (usually comprising of two characters, some of which I may actually know). I cheated and started this challenge on the 23rd of November, as to be done just before Christmas. So far I’m well on track! I have learnt 222 words as of writing in about two weeks. I’m going to Hobart for a few days on the 10th, so I may slip behind then but then will try my best to steady the ship upon my return.
+
+I’m also going to step up my listening to 1.5 hours a day.
+
+Anyway, guys, thanks for reading, hope it was of interest – see you in the next post!

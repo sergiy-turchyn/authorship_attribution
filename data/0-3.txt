@@ -1,0 +1,53 @@
+
+Same components, different characters
+
+Chinese characters made up of the same components with different placementWhen I learn characters, I rely heavily on my understanding of how Chinese characters work (particularly when it comes to phonetic components), but I also make frequent use of mnemonics. I don’t use them all the time, but I do employ them whenever I forget something I think I really ought to remember or when something refuses to stick.
+
+I use very simple mnemonics to remember characters, often just a single picture (scene) with the elements I need to incorporate. This usually just includes the character components, but sometimes tones as well.
+The placement of components in Chinese characters
+
+I memorise the components in whatever order makes the best mnemonic (usually what comes to mind first); I don’t really need to remember that “grass” 艹 goes on top, that 扌 goes on the left and that 鳥 should be on the right, because that’s almost always the case. If you’re new to Chinese characters and haven’t noticed such patterns, this article probably isn’t for you. Check out my best advice for learning Chinese characters instead!
+Sometimes component placement is important!
+
+But sometimes the placement of the components makes all the difference. This is what I’m going to talk about in this article. Most of these characters are fairly rare, so don’t make the mistake of just adding them to your spaced repetition program because you can. Another way of putting it is that unless you’re an advanced learner, you will very rarely come across different characters that share the same components but in different configurations.
+Chinese characters made up of the same components but with different placement
+
+Here is a list of Chinese characters that have the same components but arranged differently. Note that these characters are not variants of each other, they are different characters, usually with completely different meanings and pronunciations!
+
+    蜒 yán (millipede) – 蜑 dàn(egg)
+    怡 yí (joyful, happy) – 怠 dài (idle, slack)
+    愀 qiǎo (to change one’s countenance) – 愁 chóu (to be anxious, worry)
+    杲 gǎo (brilliant, bright sun) – 杳 yǎo (distant, out of sight)
+    摸 mō (caress, touch) – 摹 mó (copy, trace)
+    呆 dāi (dull, stupid) – 杏 xìng (almond, apricot)
+    忠 zhōng (loyal) – 忡 chōng (grieved)
+    忘 wàng (forget, neglect) – 忙 máng (busy)
+    召 zhào (convene, summon) – 叨 dāo (talkative)
+    含 hán (contain) – 吟 yín (chant, recite)
+    唯 wéi (only) – 售 shòu (sell)
+    啼 tí (weep, caw) – 啻 chì (merely)
+    帛 bó (silk, fabrics) – 帕 pà (kerchief)
+    某 mǒu (certain person or thing) – 柑 gān (tangerine)
+    桉 ān (eucalyptus) – 案 àn (case, table)
+    皇 huáng (emperor) – 珀 pò (amber)
+    眇 miǎo (minute, blind) – 省 shěng/xǐng (save, province; be aware)
+    音 yīn (sound) – 昱 yù (bright)
+    机 jī (crucial point, engine) – 朵 duǒ (mw. for flowers)
+    *垦 kěn (cultivate) – 垠 yín (limit)
+    *吴 wú (a surname) – 吞 (swallow)
+    *庄 zhuāng (village) – 圹 kuàng (tomb)
+    翋 là (flying) – 翊 yì (assist, help, flying) – 翌 yì (daybreak, the next day)
+    另 lìng (another) – 加 jiā (add) – 叻 lè (used for sound transcription)
+    旭 xù (brilliant, rising sun) – 旮 gā (corner, nook) – 旯 lá (corner, nook)
+
+*These only have the same components in simplified Chinese. Some might not actually share the same component, but they look the same or extremely similar.
+
+This list started with my own observations over a few years and have then been expanded by helpful people in the comment section (thanks to Andy and Els)!
+Implications for language learners
+
+For language learning purposes, this only becomes a problem when you encounter two or more from each set, which is unlikely to happen unless you learn a large number of characters. While this list is not exhaustive, it’s also unlikely to happen because the phenomenon itself is rare.
+
+This means that my method of not encoding order at all in mnemonics works find so long as you also have a decent understanding of characters and know what component goes where. For the small majority of cases above where this doesn’t work, you can simply make an exception and make sure you get the order right in each.
+Keep it simple!
+
+In general, keep things simple. Don’t use mnemonics to encode and remember information you don’t need to have in there. If you’re going to include components and their order, pronunciation, tone and perhaps even more things, you need something approaching a short story to remember it. That’s not time well-spent. Keep it simple. Remember only the things you really have to!

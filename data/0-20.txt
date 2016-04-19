@@ -1,0 +1,62 @@
+
+Learning Chinese characters through pictures
+
+If you think this is a good way of learning characters, you should definitely read this article.
+
+When starting to learn Chinese characters, there are a few basic things you really need to know. The first is that Chinese characters aren’t pictures. It is true that some characters started out as representations of objects in the world, but in modern Chinese, just a few percent of characters are actually pictographs.
+
+Chinese characters aren’t pictures
+
+Most characters are combinations of smaller character components that fulfil certain functions in the character. The most important functions are to carry information about sound and meaning.
+
+Think of it like this: when the character was first created, each component was included for a reason. Most compounds consist of one component that was included because of its pronunciation, and one because of its meaning. These are called phonetic-semantic compounds. I have written more about them here: Phonetic components: The key to 80% of all Chinese characters.
+
+This is very fortunate, because it means that Chinese characters aren’t just random combinations of strokes. That would make the language almost impossible to learn! Instead, there is meaning there, you just need to know what to look for. One of the cornerstones of successful learning is to make it meaningful.
+
+How to learn Chinese characters
+
+The best way of learning Chinese characters is to combine an increasing understanding of how characters actually work with powerful mnemonics. Top this with spaced repetition and communicative writing and you’re en route to written proficiency. If you just started learning Chinese, you might want to check some additional suggestions for how to learn learn characters as a beginner.
+
+Using pictures to learn characters
+
+So, we now know that Chinese characters aren’t pictures, but what about using pictures to learn characters anyway? The answer is that it depends. There are two kinds of pictures you can use; one type is very useful and the other is really bad.
+
+Use pictures based on the actual components and etymology
+
+The useful type makes use of the components that make up the character. The best kind adheres to the real etymology of the character, but while I think this is good, I don’t think it’s strictly necessary.
+
+The reason it’s important to build any imagery you use on the components of the character should be obvious. If you do, you can reuse the character components later! There are only a few hundred common components and by combining them, you can learn and remember thousands of characters.
+
+Avoid using pictures that obscure the real meaning and structure
+
+Compare this with the bad type of pictures where the internal composition of the character is violated. This turns each Chinese character into a new picture that is unrelated to any original picture(s) that might be associated with the character.
+
+I said in the introduction that if all Chinese characters were pictures, it would be extremely hard to learn. Well, if you use pictures like the one included at the beginning of this article, you’re taking a step in that direction. It will require a huge effort to learn characters this way, and even if it can be done, there’s no good reason for doing so. Done occasionally for fun, sure, but never use this kind of picture as a learning method.
+
+The reason this is so bad isn’t that it’s inefficient, but that it hides the real composition of the character, stopping you from understanding how characters work and expanding the your understanding of the building blocks that make up Chinese characters.
+
+In the picture of the boy with the ice cream, the component 口 which actually means “mouth” or “opening”, is represented by an ice cream. The other component, 乞 which means “to beg”, is represented as the mouth and nose of a person.
+
+If you create unique pictures for all characters (I advise you not to), 口 will mean different things in different situations, making the learning task many times harder. If you’re going to be consistent and use the same picture for all 口, doesn’t it make more sense to use the actual meaning of the component instead? Of course it does!
+
+Rules of thumb for using pictures to learn Chinese characters
+
+This leads us to a few rules of thumb when it comes to using pictures to learn characters:
+
+    Build your pictures (mental or otherwise) on actual components
+    Be consistent so that each component is represented the same way
+    Use real etymology when available or when convenient
+
+The first rule is the direct result of what I’ve talked about above. The second makes sense once you realise that it’s important to learn the building blocks so the can be used to construct and deconstruct other characters.
+
+The third rule of thumb is useful, but not something I think you need to adhere to 100%. In my book, it’s fine to remember that 美 means beautiful by using the visual breakdown into 羊 (sheep) and 大 (big). This will give you the practical means to reproduce the character when needed.
+
+However, to really understand this character, this is not enough. This character actually has nothing to do with sheep, but is in fact a representation of a person wearing some kind of headgear. If you want more information like this, the guys over at Outlier Linguistics are your friends.
+
+Conclusion
+
+In order to learn characters efficiently, it’s important to understand that they are neither pictures nor random strokes. They are combinations of components that are included in the character for  a reason. Whenever you use pictures to learn characters, make sure that they build on the actual components of the character!
+
+Never build mnemonics by cutting the character in ways that go against the structure of the character. This obscures the real structure of the character and impedes your learning.
+
+Be as consistent as you can, using the same picture for the same character component. Finally, whenever possible, make sure your pictures reflect the real etymology of the character.
