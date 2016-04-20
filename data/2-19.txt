@@ -1,0 +1,18 @@
+Old hats become new
+
+What if with all the developments in cloud technology, it's possible to make boring old  useful technology exciting again? You think it can't happen, well people always think that, until it happens. And most don't realize it was just a remix until long after it's been integrated into our way of doing things, and then it just seems normal, and boring, if not useful.
+
+For example, today Facebook seems normal. Is it a remix? Yes of course. It's USENET groups, or a BBS, or a blog-with-comments, or a chatroom, all of it schmushed up into a sprawl of features and services. But there was something important about Facebook when it was new -- three things really.
+
+It scaled. It was fast no matter how many people used it.
+Huge amounts of venture capital was available to fund growth before they knew what their business model would be. 
+Everyone could use it. This was a combination of improving computer-using skills among normal people, and devs learning how people learn so we could make it easier. The two met at Facebook. 
+True, not everyone could use it, but enough people so that people who couldn't felt left out, instead of the people using it being weird (as we were in the day of USENET, BBSes and blogs).
+
+But now it's old hat. Many people think this is it. Everything has to compete with Facebook and it's so pervasive and fast that it can't happen, therefore it's all over. This is the way it will be forever. No one actually says that, but other things they say imply it. It's behind their thinking, rarely said out loud. Of course it's wildly wrong.
+
+Because while Facebook is basically sitting there, serving as a backbone for all of the company's adventures and as a barrier to entry for upstarts, other tech is roaring forward making previously unthinkable things more thinkable.
+
+I have the ability to see into these technologies, and to see them as a user does. This gives me a pretty unique perspective. Network servers are now very cheap and getting easier to deploy. They have to get just a little bit easier before enough people can start one up to create the kind of swell of people that Facebook created. And then what we will have will be just like everything else, but like nothing that came before, as Facebook was when it was new. And blogs, and BBSes and USENET all the way back to cave drawings. 
+
+What will we do with it? I have some opinions about that, and am developing my software accordingly. 

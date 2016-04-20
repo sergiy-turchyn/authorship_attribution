@@ -1,0 +1,22 @@
+How IA happened from my POV
+
+Dan York at the Internet Society commented on my first IA piece after I got it working, and he's the first imho to concisely say why it's so interesting. 
+
+I have expected that Facebook would be focused on keeping everyone inside their shiny walled garden and thought I understood that Instant Articles involved putting your content on FB¡¯s servers, which I now understand it does, but via caching of an RSS feed. Which is very cool!
+That's exactly right. The feed is how stuff enters their content system. But the feed itself is outside, leaving it available for other services to use. It's great when this happens, rather than doing it via a WG that tend to go on for years, and create stuff that's super-complicated, why not design something that works for you, put it out there with no restrictions and let whatever's going to happen happen. That's certainly how I've done my past projects. I like to create functionality much more than I like to go back and forth on mail lists. 
+
+Now to answer your question, I don¡¯t know very much about AMP.
+
+The reason I was able to get on board with IA is that one of the directors at Facebook, Doug Purdy, wanted to work with me. So we met almost two years ago, here in NYC. Then I was briefed on what they were doing, and kept in the loop as it came together. In the beginning all I had was a promise that it would be RSS . I¡¯ve seen many companies over the years say nice things about being open, but somehow forget as the project goes forward.
+
+But they came through. When I got to start work on it early last week, it turned out they had stuck to the promise. It was a simple addition to my RSS-generating code to have it also generate an IA feed. It took three sessions over three days to do the work, and to ship.
+
+So that¡¯s pretty good use of existing technology as I see it. wink
+
+About AMP, no one ever sent me an intro to what they were doing. They emphasized the big companies they were working with. To be fair, so did Facebook. From my point of view it¡¯s largely because Doug really wanted this openness that it happened. I find that many of the big open innovations over the years have one person inside a big company who sees it as worth the extra effort to do something open. 
+
+Basically I find that developers want to create open stuff, it's part of the ethos of programming. So sometimes it actually happens. wink
+
+PS: On Twitter, Tom Murphy called this a "bridge into a walled garden." Beautiful.
+
+PPS: On Facebook, Purdy lists the people who worked on the open protocol at FB.

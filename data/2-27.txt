@@ -1,0 +1,42 @@
+NYT please let the community in
+
+I was telling Joi the other day that I have advice for the NY Times that I thought he would appreciate since he is a board member there. 
+
+He said I should write a blog post, of course (he's an NBB). 
+
+So here it is.
+
+Anatomy of a story
+
+First, let's look at the anatomy of a news story. 
+
+A headline.
+A lede.
+Quotes from experts, people involved in the story, witnesses. Also known as sources. 
+Some numbers perhaps from pollsters or researchers.
+A closing paragraph (optional, the Times often omits them, which makes a lot of sense).
+Now for ten points, tell me which of these items has changed the most in the last few decades. It's #3 of course. 
+
+Sources go direct
+
+The big revolution brought to us by the Internet is that sources can now speak publicly, easily and for free, using Twitter and blogs mostly. I once predicted that every member of the US House of Representatives would be a blogger. That seemed bold at the time, but today? It's much bigger than that. The President of the United States just wrote a guest post on the SCOTUS blog. Think about all the change that represents.
+
+For me, this ability to go direct, was the reason I started blogging. In 1994 I had a Mac product. Couldn't get the news out because reporters, even though they all used Macs, believed the Mac was dead. They reported their belief, not facts. 
+
+A lot of people used Macs, and there was lots of new software. There was no way to get news of new products out to users, because it contradicted the belief that there were no new products. So I started communicating directly, using the web, and it worked. We got enough users for our software to allow it to evolve into blogging, podcasting, RSS. 
+
+Markets could develop without the support of journalism. That's a big new thing and should have been a wakeup call for the news industry, if they weren't mostly ignoring blogs or trivializing them. 
+
+So now when a reporter needs quotes, he or she may turn to Twitter, or a blog, or search, to find the sources they need. The phone, the previous technology used for gaining quotes, is not used as much these days.
+
+The missed opportunity that amazingly still is open
+
+At the same time the news organizations have missed a chance to embrace this phenomenon by working on new tools to help their sources communicate more effectively. They've let the tech industry own it, and it hasn't imho done a very good job. It's all very confusing in user-publishing land. I imagine that reporters at the big pubs think this is okay, but it's not. Their business models are disintegrating, ad blockers are a user revolution, a sign that things may be about to collapse quickly from here. I was on the receiving end of a user revolution in the late 80s as the CEO of a software publisher that practiced copy protection. One month it was something users grumbled about, and the next month we were all rushing to release versions of our product without it.
+
+There's a lot of garbage blogging and tweeting going on out there. Only a relatively few people do a great job of it and strive to do better. These people should be part of the news ecosystems that news orgs gather around themselves. Not replacing reporters, not replacing anything. The bloggers are the sources, with the ability to publish on their own.
+
+Bottom-line: The most interesting sources of the NY Times should be offered a chance to blog at a nytimes.com domain. One that's clearly seen as the user community of the NYT, so it's understood that the quality of the writing is not something that's subject to the NYT standards. But at the same time, let new standards evolve, and nurture them. Take an interest in the bloggers. 
+
+The Times has yet to really make a serious attempt to understand what blogging is. For years they called their reporters who write using blogging software bloggers. That was a big disconnect. The bloggers are your current sources and future sources. You have to call some of them on the phone but mostly you read their tweets and blogs. 
+
+Here's a vacuum that has existed from the beginning. Why not fill it? Take a chance. Experiment with the new technology in meaningful and potentially revolutionary ways. What exactly do you have to lose?

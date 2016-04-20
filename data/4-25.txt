@@ -1,0 +1,34 @@
+Striving for Streams of Serendipity or Inbox Zero?
+
+Nobody really likes spam - those unrequested commercial emails that join your email box. They interrupt you, distract you, mislead you, or maybe worse - trick you into giving up your money or personal information. And over time, most email services have been pretty good at determining just what is spam, and what's not, while we, as consumers, are getting better at refining just what content we want on all our screens, be it our email box, or our social streams.
+
+With this experience, what we've labeled as spam now not only encompasses the obvious scam message, but practically anything that enters our view that we didn't explicitly ask for, or surprises us. Most of us living in a social media powered world have taken a lot of effort to refine our content sources, to the right sets of blogs, and the right friend groups on social networks. When we log in to Twitter, Facebook, Google+ or anywhere else, we pretty much know what we're going to get.
+
+Many of these social networks, dating back to the first blogs, are sorted chronologically, with the newest content at the top. With some effort, you can quickly scan to where you last left off, and feel complete. There's no more to read, and you can move on to the next thing. It's a permuation of the famed "In Box Zero", which says your task is complete.
+
+But increasingly, thanks to pressure to fill streams of less active users, or to increase engagement from regular users, it's become more commonplace to push content that's not explicitly requested into user streams. This can be "Friend of a Friend" content, like we saw back in early 2008 when FriendFeed first introduced the feature, or more recently, items that your friends on Twitter have retweeted or favorited, that Google+ friends have +1'd or Facebook friends have Liked.
+
+
+/via FriendFeed blog: See popular items from your friends-of-friends
+
+It's assumed the more signals given to the network about what your friends like, the more likely it is that this piece of content is also relevant to you. It's not necessarily wrong, but it's a change, unwelcome to people who like to perfectly curate their streams - while possibly exciting to those who do want to take signals from the network - believing they aren't the one perfect arbiter on whether an item is interesting or not.
+
+In 2008, FriendFeed spoke to this change, saying, "Our goal is to make the most interesting shared items more prominent so your FriendFeed has a higher percentage of interesting stuff and active discussions." And it worked. If I believed +Paul Buchheit had high quality interactions, I could be alerted to items on the stream that he had liked. But FriendFeed also gave me the option to turn it off, and many people did.
+
+In 2014, Twitter is a lot bigger than FriendFeed was six years ago. It's a world-recognized stream for real time communication, so their moves get a lot of attention. Every minor change in the stream is especially scrutinized. After already taking for granted the fact that retweets from friends would be sent to my stream, the occasional tweet now appears, simply because someone I follow added it to their favorites. Unsurprisingly, this experiment, which is easy to spot on their mobile app, set the tech blog debates abuzz again - trying to figure out how it worked, and whether it was good or bad.
+
+
+Techmeme debates the Twitter favorite bumps.
+
+It's widely assumed putting content in user streams benefits the service provider. Twitter should see higher engagement, higher relevance and more clicks. For the OCD "In box zero" types, these serendipitous pieces disrupt their worldview, and, unsurprisingly, those who write about tech and social media all day are more likely to be of this type than the general population.
+
+When +Barak Hachamov and I were working on my6sense, we were more than happy to rank social streams based on your activity and implicit interests. The solution, in my view, hasn't seen an equal, even in the three plus years it's been gone from consumer's hands. We offered a stream based on relevance, with your interests playing a huge role, a toggle to view the stream chronologically, and yes, we promised occasional serendipity to deliver surprise - to get you out of a knowledge rut, which can come from seeing the same topics debated and shared by like minded thinkers.
+
+
+Relevance vs Time in my6sense
+
+What we've learned from the Web is that we tend to gravitate to people who reinforce our own views and agree with us. Debate happens, but we don't actively seek out opinions from those with opposing takes on political, religious or even sports. (I wrote about this in 2006: Blogging Bifurcation - A Web Divided) The Web, despite being especially diverse, leads to us forming cliques, with friends, with what we read, and where we choose to congregate. Our three social pillars are what I called out back in 2009: Technology, Community, Relevancy. Most of us active in social streams have bought into the technology, and crafted our community, assuming the community's thoughts are themselves relevant. And by seeing new content, we immediately question its relevance.
+
+For the 95%+ of people who haven't put hundreds of hours into scanning their streams to never miss a post, and who haven't taken time to set up lists, form circles, or fully understand Facebook sharing settings, the serendipity of surprise is as important as what they've explicitly asked for. While those of us on the tech edges react to the surprise with shock, we should know this is something we give in exchange for participation in somebody else's stream. The only thing I'd ask is that, like FriendFeed, we always have the option to please, kindly, be able to turn something off. Then we'll all be happy.
+
+Standard Disclosures: I work on the Google Analytics team at Google, which provides Google+. Various services from Google partner with or can be assumed to compete with products from Twitter and Facebook. Also, from 2009 to 2011, I had a consulting relationship with my6sense as part of my work with Paladin Advisors Group. Disclosures are fun.

@@ -1,0 +1,105 @@
+Running a Social Fantasy Stock Portfolio With Google Finance
+
+
+It¡¯s no secret the stock market has been more than a little bit rough this year. After years of growth and optimistic enthusiasm about Internet giants, promising biotech pioneers who aimed to change the world, and starry eyed hope for unprofitable unicorns, 2016 has seen record setting declines through January, with the average company losing double digit percentages in value, and less fortunate market caps slashed by more than half in less time than Noah and his family were said to have spent on an ark. 
+
+But amid the daily headlines screaming with bold red letters, the overnight alerts about instability in China, and debate over whether the low price of oil will halt the rise of the electric car, a few friends of mine and I have been running a parallel stock game of sorts which makes the daily punishments of whiplash just a little more acceptable, and maybe even fun. 
+
+
+When the leader is down 13%, you know it¡¯s been a rough year already.
+
+The starting rules sounded simple: Start with a virtual $100,000 (any number works, but $100k sounds big) Pick ten stocks or commodities Invest $10k in each one, either short or long. Hold those picks for a full year. No trading. After a full year, the person with the greatest balance wins. 
+
+
+We all started with 100k, but we¡¯d all beg to get there now.
+
+The rules, especially the counterproductive block on any mid-year trading or selling, seem simple. And the twelve month horizon may have you believe it¡¯s a set it and forget it game?¡ª?just plug in the tickers and come back to see how you did. But the reality is far different. Six different people with different backgrounds, who claim to know what they¡¯re doing and have more than an average level of experience in the market, each delivered widely differing picks, and now we¡¯re keeping an eye on sixty different securities, watching how they move in the face of some pretty strong headwinds.
+
+One portfolio bet 10 for 10 on small cap biotech stocks, crossing fingers for a binary spike on approvals from the FDA, but has had absolutely no luck, down more than 40 percent on the year already?¡ª?needing a near double to get back to par. Others of us picked large cap tech leaders like Google, Facebook, Netflix, Apple and Amazon, and have also seen declines around 20%. Solar picks like SolarCity, SunEdison and SunRun? Down 33%. One contrarian portfolio is hoping for turnarounds from Yahoo!, HP, Chipotle and Yelp! and faring no better. Pretty much the only things that have kept above water in 2016 are retail picks like Macy¡¯s and Walmart, old media like Time Warner, and a few opportunistic shorts. 
+
+(Disclosures: I work at Google and also own SunRun stock in real life. No other biases are assumed or intended.) 
+
+
+The Contrarian Account is Down Too
+
+That none of us predicted a market correction makes us seem more than a little daft, but even though we¡¯ve managed to take $600,000 and turn it into just over $450,000 in about a month¡¯s time, the daily ups and downs and charts created by the automated spreadsheet have turned what should be a tragedy into a thrilling contest that plays out five days a week. 
+
+How Google Finance and Google Sheets Run This Game 
+
+Stock portfolios are typically a secure and individual endeavor. They¡¯re not made for other people viewing, and they¡¯re not social. But when my dad wagered I couldn¡¯t invest his money better than the 3.5% annual return he expected from a money market account in 2014, I had to find a way to prove I could. And I happened upon Google Finance¡¯s integration with Google Sheets?¡ª?plugging in my own ten picks that summer, and eventually delivering 10% or so gains on the year. That experience had me getting deeper into Google Finance calls, dabbling with App Script, and setting up the game we have today. 
+
+Step 0: Make your picks. 
+
+For this game, I set an arbitrary date of January 1st, 2016, and had all participants enter their selections before market trading on the New Year, so that when the market opened, we were good to go. 
+
+
+Start with 10 tickers and then let Google Finance do all the work in Sheets.
+
+Step 1: Get the prices for your picks. 
+
+Google Sheets supports calls to Google Finance that request the stock ticker, and then a number of variables, like ¡°Price¡±, ¡°High¡±, ¡°EPS¡±, ¡°low52¡± for the yearly lows, etc. (see https://support.google.com/docs/answer/3093281) For example: =GOOGLEFINANCE(¡°AAPL¡±, ¡°price¡±) would return the price for Apple stock. Paste that into the cell and change the ticker for your stock. 
+
+Step 2: Determine how many shares each player has per ticker. 
+
+We determined $10,000 per ticker, and divided the shares by the opening price on January first. A simple spreadsheet call did the math for us. 
+
+Step 3: Show the daily change in each ticker and portfolio. 
+
+The call of =GOOGLEFINANCE(¡°GRPN¡±, ¡°changepct¡±)/100 would show how much Groupon stock has gone up or down by percent each day. That percentage change, against the total value of your shares at the end of the previous day, would deliver the Daily Impact from that ticker. Add up all ten, and you have the daily change by portfolio. 
+
+Step 4: Create background sheets to run a scoreboard. 
+
+Now that all the tickers are constantly getting data from Google Finance, and showing the ups and downs each day and over the long term, you can set up three distinct hidden sheets. These sound complicated, but you only have to do it once. 
+
+4.1 ) The Master Data sheet. This sheet tracks every ticker in every portfolio and captures their current value. This is done by making calls to each person¡¯s portfolio and the respective cells, like share count, price and gains. 
+
+
+You only have to put these formulas in once, and they¡¯re not really that complicated.
+
+4.2) The All Time script sheet and Daily Script sheets. These are more fancy, as they take data from the Master Data sheet, and auto sort by the most valuable stock pick, displayed it in descending order. This is done using Google Apps Script, with one of these commands: =SORT(¡®Master Data¡¯!A2:L41, 8, FALSE) to get all time data =SORT(¡®Master Data¡¯!A2:L41, 9, FALSE) to get daily change data That looks crazy, but what you¡¯re doing is making a call to the Master Data sheet, saying you¡¯re looking at all 40 rows from 2 to 41, and all columns from A to L, then ranking by the 8th column, which is the overall gains column, or the 9th, which is today¡¯s change. These sheets make the game more fun. 
+
+4.3) The Leaderboard sheet. This small sheet tracks the current values of each players¡¯ portfolios, and how much they¡¯ve gained?¡ª?both since the beginning of the game, and today. 
+
+Step 5: Get As Creative as You Want
+
+Once you have every player¡¯s portfolio being tracked in near real-time through the day, you can do practically anything you like with the data. 
+
+
+The day¡¯s action on a red day shows 10 stocks up and 50 down.
+
+We set up a front page which highlights the current leaderboard, from top to bottom, and shows which stocks have done the best all time or each day. And for those who love to watch the CNBC ticker, we set up another page called ¡°Today¡±, which captures the day¡¯s action, including our total gains or losses on the day, and an eyeball look at how many tickers are up or down on the session. 
+
+
+Fun charts bring color and tell the story as the market runs.
+
+We also set up a page dedicated for charts, to capture how we¡¯re doing each month on the game?¡ª?which requires some manual work on the last day of each month, but is trivial, and compares each player to another, showing how much we each need to improve to move up the ladder to the next slot. 
+
+And on each portfolio page, we got creative with the Finance API and made calls to 52 week highs, lows and how far each ticker is doing from the annual peak. 
+
+What Could Go Wrong? 
+
+With Google Finance doing all the calls in the background, and the tickers never changing, the game doesn¡¯t need a lot of maintenance from the project owner?¡ª?aside from the monthly data captures, and any new features you come up with. But the stock market is a tricky place, and you have to watch for complications. 
+
+What if a company gets bought or goes private? 
+
+Our answer has been that if a company gets purchased, we would ¡®pay out¡¯ the holder as if they owned real stock. An all cash transaction would pay out at the value of the deal, while a stock transaction would get equivalent stock of the acquirer. If a company goes private, the stock value is frozen at the last day it was traded. 
+
+What if a stock splits? 
+
+That¡¯s a fairly easy one, actually, if you see it. For example, if Amazon is at $500 a share, and you have 20 shares, and it splits 5:1, you¡¯d give the current holder 100 shares at $100 a share, and adjust the acquisition price to a fifth of the original. 
+
+What if a ticker changes? 
+
+That¡¯s annoying, but we already encountered that with Broadcom getting acquired by Avago Technologies. The calls to $BRCM no longer worked. I tracked down the acquisition details, swapped out the calls to $BRCM in exchange for $AVGO and made sure the dollars matched. 
+
+What about dividends? 
+
+Look. This is a game, so no dividends for you. Sorry. 
+
+What about index funds and options? 
+
+Index funds are great if you¡¯re trying to be safe, but games are about risk. And options are too tricky to set up, so no. Sorry. 
+
+I did the hard work of getting started. Here¡¯s your template. 
+
+Practically all the Google Finance calls from Google Sheets can be found on this help center page: https://support.google.com/docs/answer/3093281. I leaned on Reddit a bit to find out how to pull in data on Bitcoin, and asked my colleague Steven Bazyl some App Script questions when I was getting started. But now I have a template that runs itself. If you want to paper trade by yourself or with some friends, you can absolutely take our template, and put in your own picks. And just maybe the market will turn around and we can talk about gains instead of losses! 

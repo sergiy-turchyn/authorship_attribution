@@ -1,0 +1,32 @@
+Universities and the open web
+
+I mentioned in an earlier post that I visited the MIT Media Lab on the 11th of Feb. It was a great trip, just one day back and forth. I wanted to see the Media Lab with my own eyes, and reconnect with two longtime friends who are working there now.
+
+Ethan Zuckerman got involved in the web very early as the lead developer at Tripod. I worked with him at Berkman, where he, along with Rebecca MacKinnon, started the incredible Global Voices project. Ethan is now the director of the Center for Civic Media at MIT. 
+
+And Joi Ito, one of the earliest bloggers, a good friend, discussion leader at BloggerCon, has been the director of the Media Lab since 2011. 
+
+I wanted to reconnect because the Media Lab is in an incredible position to help the open web., especially because these two pioneers, Ethan and Joi, are there. 
+
+Lots of emails, back and forth
+
+Our meeting was a whirlwind, at least partially because my train from NYC was 45 minutes late (!) but there's only so much you can get done in a face to face in one day. 
+
+So we've been going back and forth via email since the meeting, and it's been getting pretty interesting! I want to now surface at least part of what we've been talking about.
+
+First, Joi wrote a post about our meeting and the open web. Please read.
+
+It's not only personally flattering, but you can see how thoroughly the blogging ethic flows through Joi. Err on the side of disclosure, saying what you really see, knowing that it will be received at face value. That's blogging at its best, imho. 
+
+Where to go?
+
+In one of the follow-up emails I listed three things we could do to help the open web reboot. I had written about all these ideas before, in some cases, a number of times. 
+
+Every university should host at least one open source project.
+Every news org should build a community of bloggers, starting with a river of sources. 
+Every student journalist should learn how to set up and run a server.
+These ideas came out of my work in booting up blogging and podcasting, and working successfully at Berkman to get the first academic blogging community going. Had I continued that work, this is where we would go.
+
+Update
+
+Joi's post in response to this one. 

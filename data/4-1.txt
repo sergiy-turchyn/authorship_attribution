@@ -1,0 +1,46 @@
+We Need Smart and Personal Streams, Not Just The Latest Updates
+
+
+Once again, the tech web is aflutter about a proposed change in Twitter¡¯s timeline?¡ª?as they have finally made a choice to offer more than a simply chronological feed of updates displayed in the order they were posted. While a chronological order of tweets can be considered a hallmark definition of what Twitter is today, and truthfully, one of its most addictive features as each new Tweet rolls in, it¡¯s also a detriment to those who aren¡¯t ready to be constantly hooked to the information IV drip. 
+
+
+My 2010 Summary of a Personalized Web future
+
+Twitter is 10 years old now. That¡¯s fairly mature from a Web services standpoint. Its peers, LinkedIn and Facebook, are 14 and 12 respectively. The next generation? Pinterest is just over six. Instagram nearly six. Snapchat is five. And yet it often seems as people are still waiting for Twitter to make that big leap forward to properly sit at the adults¡¯ table. 
+
+Twitter as a Media Network, not a Social Network 
+
+
+
+Ex Twitter PR and comms guy Sean Garrett, now running his own firm, commented yesterday that Twitter¡¯s been done a disservice by being labeled as a social company instead of as a media network. Taking that summary seriously, it clarifies one of the major needs for a personal and intelligent ranking of content, rather than a raw feed of the latest updates. Media companies don¡¯t just give you the very latest updates in order, with no external curation. Instead, they sort it, rank it and deliver them from the most important to least important?¡ª?whether their medium is television, radio, print or online. 
+
+For the most aggressive media consumers, like myself, the idea of seeing content out of order may seem like pure heresy. We read every email, read every blog post in Feedly, and generally catch up on Twitter to the point where we left off. Scrambling that up seems abhorrent. But we¡¯re not normal. We¡¯re seeing that from the tippy top 1% of the bell curve, and hoping the rest of the world will catch up to us. But not only won¡¯t they, but they don¡¯t need to, and we should stop expecting it. 
+
+A successful network has an obligation to give its users the best possible experience and do it instantly. But surfacing the right updates for the right person at the right time is a tricky Venn diagram to figure out, be it based on the users¡¯ topics of interest, their affection for the person posting the content, the recency of that content, and obviously, a mix of all those signals and more. Just sitting back and showing the latest stuff only solves for one of those qualities: recency?¡ª?completely ignoring what I like, who I trust and so on. 
+
+Personalized Content Leads to Happier Users, More Usage 
+
+From 2009 to 2011, I worked with my6sense, first as a third party consultant, and later as the company¡¯s VP of Marketing, before I joined Google. Their app surfaced content from your social streams in a personalized way, just for you, based on your own implicit behaviors?¡ª?what you clicked on, what you chose not to, how long you read something, etc. The more you used the application, the smarter it got, and eventually, we would know your interest patterns so well, that we could take our user model and apply it to any stream on the web. 
+
+
+my6sense for Twitter
+
+In early 2011, we delivered a Chrome extension for Twitter, which took the smarts we¡¯d developed and displayed the results of that effort on the Twitter website?¡ª?giving you two options: your standard timeline, ordered chronologically, and a smart, personalized timeline, from my6sense. 
+
+By no means were we the first company to try and bring sense to a social stream. In fact, in 2008, FriendFeed (RIP) offered users personalized recommendations as a feature to their service, aimed for those who¡¯d been away and wanted to quickly catch up. But one aspect important to both of these examples is that they gave the user a choice. You could quickly switch between a chronological feed, which was the default, and the smart feed, personalized to your interests. You could always go back. 
+
+But as we found out, the more the user visited the app, and the more accurately we could determine their preferences (which we called digital intuition), the less likely they were to ever visit the unfiltered, unsorted feed. If you became accustomed to a curated feed tailored just for you, going back to one that wasn¡¯t seemed unacceptable in comparison. 
+
+Quantity Isn¡¯t Quality. Popular Isn¡¯t Personal. 
+
+So imagine you¡¯re one of the millions of users of Twitter (or Facebook, etc.) who doesn¡¯t check in every day. On the rare occasion you do visit, you¡¯re not seeing a feed of updates from people who matter to you most. You¡¯re instead seeing a feed of updates from people who post the most. And quantity rarely was quality. When your selling action to those most likely to leave your service is to give them something low quality and off topic, that¡¯s a problem. And yet, for many services, that¡¯s the default. 
+
+Going even further, what many services provide as an option is a leaderboard of popular or ¡°Top¡± content. It¡¯s assumed the most engaged content is the ¡°best¡±, but this alone is far from the truth. If you seek out a stream for intellectual curiosity and news, you won¡¯t get that from viral videos and memes, jokes and celebrity news. But many people go to these services to turn their minds off or to relax, and their goal may be in direct contradiction with yours. 
+
+Twitter¡¯s Success Really Isn¡¯t the Topic of Debate 
+
+Now that Twitter has gone public and its financial success is being graded quarter by quarter, and Wall Street¡¯s public vote on their valuation is there for the world to see, its success could be easily measured solely by stock price. Amid the hubbub of whether Twitter could sustain a billion person audience, like Facebook, or if it¡¯s exceptionally valuable due to the role it plays in the world¡¯s news dissemination and communication, the reality is that it has to do better both for its current user base and those yet to embrace it. And that requires change and evolution. 
+
+Twitter should be personal just for me. So should Facebook. And LinkedIn. And the web at large. And my phone and car and so on. If a dichotomy is set up between something that¡¯s smart and personal against one that isn¡¯t, I know I¡¯m going to give the service a chance to give me a better experience?¡ª?and if not, I should always be able to go back. 
+
+Disclosures: I work at Google, a partner and occasional competitor to Twitter. I¡¯ve been an active Twitter user for eight-plus years. I was previously VP of Marketing at my6sense, which built a personalization engine.

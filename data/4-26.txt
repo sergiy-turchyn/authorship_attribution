@@ -1,0 +1,36 @@
+When Priced for Perfection, Startups Not Given Room for Error
+While I maintain the meme of a "billion dollar startup" is a myth, there's a clear reality that some early stage and often pre-revenue, companies are quite publicly obtaining historically high valuations. These big bets by angels and venture capitalists are made with the expectation their investments will pay off, and masterfully well.
+
+Sometimes they do, but often, they don't, and the gap between initial expectations and reality can put incredible pressure on the funded company - not just from those who put money in, but from a closely watching press, and users who want to be part of something exciting.
+
+When a private company sees incredible media visibility, and scores a fast-ramping, highly active customer base, it's usually assumed similarly climbing revenue isn't far behind. For game changers like Facebook and Twitter, who commanded sky high valuations privately before earning them publicly, this made sense. But for companies who are seen to have missed expectations, the descent in public perception and media love can be fast and steep - forcing pivots and other odd behavior  that can be somewhat puzzling to the outside world.
+
+Hey, Didn't You Use to Be Cool?
+
+
+Image via Dreamstime
+
+This awkward stage is where you see one time shoo-ins for the next big thing, including names like Foursquare, Path, Fab.com and even Square - who now have many people scratching their heads. Instead of talk of near-term IPOs and exceptional user adoption, you see things like Foursquare taking on debt financing and spinning up new apps that bear little resemblance to the much loved 1.0,  Path taking money from an Indonesian VC most people in the Valley have never heard of, Fab.com enduring many rounds of layoffs and Square also taking on debt financing after a rocky year. None of those moves are what I'd bet their founders were hoping for just two or so years ago - when they were rumored to be turning down acquisition offers and debating preferred ticker symbols.
+
+These mega-hyped startups aren't "too big to fail", but they just might be "too big to pivot", and expectations are so stratospheric, that anything less than perfection is perceived as failure.
+
+My Own Experience With a Priced to Perfection Startup
+
+If you allow for a little self-indulgence, I experienced this very thing at BlueArc early in my career, at the end of the first dot com bubble, when next generation storage companies seemed poised to take advantage of unprecedented data growth, and quite possibly unseat market behemoths like Sun Microsystems, EMC and NetApp. In May of 2001, we raised a stunning $72 million round, for 20% of the company, valuing us at about $360 million. Adjusting for inflation and the sky-high valuations of today, that's probably comparable to being valued above a billion now.
+
+
+The New York Times Coverage from May 2001
+
+Our $360 million valuation was based largely on promise. We had exceptional technology, smart leadership and a good customer pipeline - or so we thought. But we didn't even have revenue yet. And over the next few years, as things didn't go perfectly, we saw the CEO replaced more than once, and later funding rounds forced employees to accept reverse stock splits - first at a whopping 550 to 1 exchange, and later, at a 40 to one exchange. This made my 15,000 options I'd gained when joining the company essentially worthless, and there wasn't a week that went by when we weren't confronted with press inquiries or rumors on the street that we were about to go out of business. (See: How My Stock Got Reverse Split 22,000 to One)
+
+While the company was eventually sold (and not for pennies) to Hitachi Data Systems in 2011, the decade-long road, executive turnover and significant rounds of layoffs weren't anything like those first investors had hoped. The people behind funding our Series A, B and C rounds were largely absent in later raises, as was practically the entire management team. Our customer base also was radically different, as were the market players, with peers like 3Par and Isilon seeing significant success (and larger exits). While we didn't crash and burn as naysayers thought we might, we were victims of our own predicted fast route to success.
+
+So What's the Solution?
+
+There are multiple views to raising and using venture funds. Some would argue to raise only what you need to get you to the next stage, to reduce dilution, maintain control, and lessen demands from outside influencers. Others would say to get as much funding as you can, to provide a long runway, allowing for tinkering and learning what works best. Others still say to raise about 18 months worth.
+
+By taking the big money at big valuations, you're essentially asking for the spotlight, and if things take longer than expected, or aren't as dramatic a success as expected, people's patience grows thin, and the gap between reality and expectations can take a toll. It seems the biggest complaints about these awkward companies who were once youthful darlings isn't that they don't provide a good service now, but that they're not what we expected. After all, you can still get great tips on Foursquare, buy interesting products on Fab.com, take payments on Square and share your moments with friends on Path. But doing so in 2014 feels a little different than it did in 2011, when you were the start of something new.
+
+In some cases, the startups (if that's what they are) are victims of their own rapid rise to success and visibility. If they had instead raised less money, at lower valuations, and not milked the hype machine for what it was worth, they'd be given the benefit of a longer road to success. What I'm seeing now is that we expect them to grow up fast - and if they don't hit it big, we're on to the next thing. But industry interrupters like Google, Amazon, Twitter, Facebook and their equivalents don't come around all too often, and they have become household names in large part because they are the unicorns - the exception to the rule, and not the rule itself.
+
+Just like individual investors can get caught up in fast-rising markets, and find themselves buying at the peak of the market, their funds trapped as value of their owned stock decreases, so too can company executives and employees, with underwater options, or VC partners holding underperforming funds. After a while, you just want to make something out of that investment, just to see some kind of return. And when that pressure finally reaches a tipping point, it gets really uncomfortable. If priced at perfection, there's really no pleasant alternative to just getting it all right.

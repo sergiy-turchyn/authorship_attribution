@@ -1,0 +1,71 @@
+The Twitter Diaries: Wall St. Vs. Main St. And Why An Algorithm Isn¡¯t The Problem
+
+Twitter is automating (part of) its timeline via an algorithm. Cue the panic! Signal the backlash.  Twitter¡¯s new timeline is making investor buy and sell, inciting a media storm and ironically thousands of Tweets questioning the future of social media¡¯s loveable yet difficult-to-categorize social/broadcast network. This has culminated into a ominous theme #RIPTwitter with many citing that the ¡°end is near.¡±
+
+
+
+What Twitter is Introducing
+
+Twitter introduced an upgrade to its beloved (and oft misunderstood) timeline that is rolling out to all users incrementally. ¡°Best Tweets¡± introduces a new algorithm into a human curated feed that picks what Twitter estimates to be the most interesting tweets from friends, the Twitterati, brands and trends in the moment.
+
+As Twitter describes it¡­
+
+Upon opening Twitter, the Tweets they¡¯re most likely to care about from the accounts they follow will appear at the top of the timeline. The rest of the Tweets will then be displayed directly underneath in reverse chronological order, like always. People can choose to turn this option on in their settings for iOS, Android, and web.
+
+In case you missed that last part, it is not an opt-in service but instead, Twitter makes it visible and easy to opt-out.
+
+Why Twitter Had To Do So
+
+The short answer is that Twitter is introducing a new algorithm because of increasing market pressure to grow the company and deliver shareholder (and hopefully user) value.
+
+Twitter will be 10 years old in March 2016. The service famously sparked a digital movement at SXSW in 2006 with many of the early digerati embracing it instantly creating an online cool kids club. From there, it steamrolled into popularity with traditional media companies, brands, celebrities (really starting with Ashton Kutcher), etc,. sending it into the ¡°statusphere.¡± This created a new generation of short-form, real-time communication that paved the way for the likes of Snapchat, Instagram, et al.
+
+Twitter, like many fledgling startups, required significant investor funds to drive user engagement and adoption and build and attract advertising revenue.  At some point, investors needed a return and Twitter¡¯s most viable solution was to go IPO. Doing so opened up Twitter¡¯s feedback loop to include many influential shareholders who either don¡¯t get or don¡¯t use (or both) Twitter to maximize returns.
+
+Over the years, Twitter¡¯s user growth stalled and this caused investor concern to swell. With the uniqueness of Twitter, you either can¡¯t live without it or you can totally live without it because you can¡¯t understand what it is all about.
+
+Twitter hasn¡¯t helped itself either with user acquisition either. It largely left the marketing of Twitter to media companies, celebrities and the Twitterverse to bring everyone to the world¡¯s ¡°digital water cooler.¡± The company also abandoned its once thriving developer community. More so, Twitter has made a pattern of not introducing new features, updates or UX (user experience) innovation in a timely or relevant manner.
+
+The Tug of War Between Shareholders and Stakeholders
+
+Let¡¯s not confuse shareholder and stakeholder value. Twitter serves two masters and it could do better at innovating for both of them.
+
+What¡¯s the difference?
+
+Shareholders have a vested interest in Twitter from a financial standpoint. Stakeholders have ownership in Twitter from a user experience perspective. Both are important. And, I¡¯d argue that to deliver shareholder value, you must start with consistently creating stakeholder value.
+
+The question is, does everything have to scale for it to be successful? The answer is user defined.
+
+Twitter¡¯s Q4 revenue is actually up 48% year-over-year at $710M. But, it lowered revenue guidance for Q1 to $595M and $610M. I guess that¡¯s not good enough. Shareholders want Twitter to be Facebook from a financial perspective simply because they can¡¯t tell you the difference between the two networks. On the other hand, Twitter users use it because it is not Facebook. So what¡¯s the difference?
+
+Twitter is not a social network. It is an information network and there is nothing else like it when it comes to real-time engagement and information delivery. It¡¯s core user base is fanatical about it whether they¡¯re Tweeting, Persicoping, Meerkasting, Vine¡¯ing or simply consuming any or all of the above.
+
+Twitter is the digital pulse of society. Tweets and the data behind them are dissectible globally, nationally, locally and in an number of psychographic or demographic samples.  I used to say that news no longer breaks, it Tweets. As such, Twitter is a human seismograph measuring the world¡¯s activity, events and trends in real-time, propagating experiences, stories, conversations and news across big and small screens as they happen.
+
+¡°Twitter is not for everyone. And, that what makes it so special.¡±
+Facebook is trying to be a platform for everyone. It is a social network that thrives on an expanding social graph, connections made and strengthened by relationships, even if those relationships are a blend of strong and weak ties. Twitter on the other hand, is an information network that forms an interest graph where people follow others based on shared interests, aspirations, dislikes, etc., whether or not a relationship exists.
+
+On Twitter, shareholder expectations are often out of alignment with stakeholder expectations. Maybe it¡¯s time the company go private to strengthen its core value proposition for the people who use and love it to then expand its evolved charm to new groups of users. For example, Reddit spun itself out of Conde Nast because it had to. While perhaps the acquisition was lucrative for Reddit founders and investors, in the end, Reddit users as stakeholders outpower shareholders. Without them, there is no Reddit.
+
+What Twitter¡¯s New Timeline Really Means
+
+Some argue, that Twitter doesn¡¯t need an algorithm. Some pundits insist that lists are the answer. Others suggest that people curate who they follow. The magic of Twitter is that it¡¯s user defined. It¡¯s part human algorithm and now code to improve the user experience. If you can now easily see the important or meaningful Tweets that you would have otherwise missed, then your Twitter experience is likely to be more engaging than simply fumbling through something sorted by time and those whom you follow.
+
+In an interview with Techcrunch, Twitter product manager Michelle Haq emphasized the capability of this new algorithm to spike engagement, ¡°We noticed across the board this [the algorithm] caused users to create and interact more.¡±
+
+Haq also shared the upside for brands in organic engagement, which as you can imagine, will lead to more experiments and official campaigns in Promoted products, ¡°Throughout our tests, we also saw an increase in engagement for brands¡¯ organic Tweets and an increase in engagement for Tweets about live events.¡±
+
+In its official announcement, Twitter explained that increases in engagement lead to increases in time spent and activity, ¡°We¡¯ve noticed in our early experiments that people who have this experience turned on Tweet and Retweet more on Twitter ¡ª and we believe this means that brands can reach a more engaged potential audience.¡±
+
+¡°But that¡¯s the way it¡¯s always been done,¡± said no innovator ever.
+Improvements in the timeline only benefit everyone regardless of what you and I are used to. It¡¯s an experiment to balance right-time and real-time.
+
+In Twitter¡¯s own words, ¡°The updated timeline shows people the Tweets they¡¯re most likely to care about.¡±
+
+It¡¯s our job as users, marketers, newsmakers, media, et al., to make people care. Hopefully this algorithm inspires content creators to be more thoughtful in what they share as they have a gift to talk to and through people. Like in anything, you get out of it what you invest in it.
+
+That¡¯s the point. Increases in engagement by surfacing more relevance content begets increases in user experience, which leads to greater monetization opportunities, which ultimately delivers stakeholder value and shareholder returns. At least that¡¯s the goal as I see it.
+
+Twitter is special. It¡¯s an always on community rich with expressions, experiences, information and irreverence and irrelevance that promotes serendipity in activity and connections.
+
+Now all that CEO Jack Dorsey needs to do is to re-engage developers and then we¡¯ll have a thriving ecosystem (or egosystem as I like to think of it) that also designs new ways to experience Twitter in the absence of Twitter doing so rhythmically.

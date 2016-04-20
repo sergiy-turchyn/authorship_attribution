@@ -1,0 +1,32 @@
+Having a Clear Call to Action Can Drive Real Results
+
+As a member of the Google Analytics team, I regularly field questions at events or on our social channels about how online and offline activity can drive results, and what metrics have value. As no two businesses are the same, it's critical to determine the status of your company and find if your activity can bring impact to results that matter, be they clicks, leads, registrations, opportunities or real revenue. When the goals are determined, and you have stakeholder buyin, then you can start your work. (See: Measure What Matters Most)
+
+Among the most common questions I see are those around driving visitors to a specific call to action. Most websites have many different routes for visitors to take, and the many choices can be overwhelming. But in some other cases, only one outcome is required, and all efforts should be taken to get the user there.
+
+Nearly 15 years ago, I held a role with the inconspicuous title of eMarketing Manager at a company whose product line was in stealth mode. As we approached the launch date, our small marketing team debated how we were going to handle the first version of our website, and just what our calls to action were going to be.
+
+
+Most Sites Have Many Calls to Action, Which Distracts Visitors
+
+We knew our product would have a long sales cycle of more than six months, and the average sales price would be north of a hundred thousand dollars per unit. We didn't yet have any customer success stories, and our target markets were an educated guess, based on how we thought the product would perform, and colleagues' experience selling competitive products. We didn't even really have photos of the hardware we expected to sell, as that too was a work in progress.
+
+But what we did have was a launch date, to coincide with the announcement of our product and corresponding news coverage. We had to ship a site with our new company name, and it had to give just enough information to keep people interested, even if we couldn't deliver all the details.
+
+
+
+The BlueArc product page in February of 2001 (via Archive.org)
+
+After some debate, we decided to make the website a massive demand generation tool, with every page driving us to a single call to action: Sign up for our newsletter. Every page had a button on the sidebar encouraging new signups, and where data was scarce, we had links to the newsletter. Even before we'd sent out a single issue, we had thousands of registered emails, ready to be updated.
+
+
+Our Solution: A Single Call to Action from All Pages
+
+
+Our monthly newsletter, which shipped with my name as the sender for more than eight years, gave us a consistent customer database to talk to for years, and was responsible, in the long run, for prospects, ongoing communication to soft leads, and updating the press and analysts.
+
+This result was from keeping our mission simple. Instead of trying to dazzle visitors with things to download, an array of phone numbers to call, or videos to watch, we just took the casual visitor coming from the New York Times and Wall Street Journal, and gave them the chance to hear from us again, so that when our message was ready for them, we would have that channel in place.
+
+When you know what to measure, driving toward a goal becomes easier. And if you don't, not only are you confused, but so are your users. This is a lesson I learned firsthand a decade and a half ago.
+
+Disclosures: I work at Google on Google Analytics, and worked at BlueArc from 2001-2009.

@@ -1,0 +1,23 @@
+Yes, I have heard of Google
+
+Note to all my friends: I would never ask for help unless I had exhausted all other options, including searching on Google. blush
+
+It's amazing how many people answer a simple clearly stated programming question with the results of a Google search. I wonder why they bother? Do they think other people (including yours truly) have not learned about the magic of search engines?
+
+Only slightly sarcastic. 
+
+This great communication tool we created is falling apart because no one pays attention to anything these days. 
+
+You want to know how bad it gets? This..
+
+On Facebook, in a partisan political "debate," drive-by trollers repeat insults that were posted literally two messages above them in the thread! Now that's some efficient mindless trolling. wink
+
+Follow-up
+
+I heard from one of the people who gave me an answer that ignored the question I asked. He didn't like this post. Well this is a real blog, and a real person works here, not a TV character. When I get an answer, I share the result, in the form of clean tested sample code that's documented. That's what I love to find. 
+
+Now, when I ask a question like the one I asked, it's not just for me that I ask it. I found a missing piece of example code. If anyone else wants to make a client call from a server using WebSockets (and not some other protocol) there will now be that code, assuming this problem is ever solved (not looking good at the moment).
+
+So instead of having your feelings hurt, why don't you dive in, and figure the problem out and help. You're not just helping me (as stated above, because I know you're probably skimming) you're helping the web and other programmers. 
+
+Thanks for listening. (If you actually did.)

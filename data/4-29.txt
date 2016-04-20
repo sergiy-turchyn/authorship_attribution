@@ -1,0 +1,36 @@
+Rachio's Smart Sprinkler Controller Brings Intelligence to the Yard
+
+Most sprinkler systems are pretty dumb, or offer up a near-impossible menu of options with an indecipherable array of buttons, which serve to confuse - usually leading to one of two outcomes: you being the proud owner of a dead lawn, or being the idiot who left his sprinklers on in the rain. I haven't been happy with mine for a long time, but that's now all changed, with a system from Rachio, my latest move to make my home smarter and more connected.
+
+Like my Nest thermostat and smoke detectors, Rachio converts a long-neglected but important part of the home, and gives it intelligence, tapping into the Web and putting the power of a data into a smart app on my phone. Now I know exactly how much my yard is getting watered, when the sprinklers will spring on next, and can make changes for seasonal adjustments.
+
+
+The Rachio App Shows Weather, Next Water Cycle and Status
+
+When we moved into our home four years ago, we inherited a well intended, but poorly implemented sprinkler system, offering three watering zones, and options to water each area on odd days or even, or by days on the calendar, with adjustments for time and percentage of the usual watering levels. I could tell it to run, or to be off, but I honestly couldn't tell you the number of times I'd expect the sprinklers to go on, but they wouldn't, or my wife or I would get lost in the menu. The sprinkler system was a mess best left ignored.
+
+So this weekend, I took this beast of a device off my house, and, despite my lacking an electrical engineering degree, managed to put the $249 Rachio Iro system in place and running fairly quickly.
+
+
+This Sprinkler System Had to Go
+
+I was first encouraged to photograph my existing setup and label each wire before installing the Rachio system, as you can see above. This fallback also served as an escape route had things gone wrong, to go back and set things up as they were before and carry on with the mediocre status quo. But the instructions were pretty straight forward, and within minutes I was on my way to having a better looking and better behaving system.
+
+
+The Rachio Iro Looks Like a Nest or iDevice (Image via Electric Imp)
+
+Following the included diagram, I hooked up the wires to the Rachio system, plugged it in, and then used the Rachio app on my Nexus phone to enter an account, add my WiFi credentials, and then performed a "Blink Up" on the device - a feature that comes from Electric Imp, to send the WiFi data to the unit via the small photosensor in the bottom left of the unit. That was cool, and once I realized I had to do that without too much light behind me, the WiFi indicator on the Rachio flipped from red to green, and we were good to go.
+
+
+
+With the unit set up, I now don't have to go back out to the side of the house to mess with the scheduling any more. Instead, I went into the app to name the watering zones, and could even go so deep as to say what type of zone they were, including whether it was grass, shrub or trees, the soil type, from topsoil to clay, the amount of shade, the slope and the type of sprinklers I've got.
+
+You can get as detailed as you like, or just let the system run with its presets, which at the very least will get your yard watered exactly when you want it to.
+
+
+
+With this move, I've been able to transform a complex set of pipes and wires to an app I can control anywhere. And just like I can use my phone or tablet to turn the heat on or off in my home with my Nest thermostat, or to manage my Sonos speakers, I can now turn the water on and off with the press of a button.
+
+The foundation for Rachio's beginning was as simple as seeing a neighbor's sprinklers on in the rain. Here in California, where we're in yet another drought, and fines are being threatened for water wasters, bringing a smarter watering system makes even more sense. In fact, my scheduled watering times don't even start if more than a dab of precipitation is predicted for my zip code. So it's not only smarter and better financially, but like my move to solar energy with Sunrun, it's just a good idea for the environment.
+
+Taking complexity out of products and making them delightful will always be a great idea, and the more old tech under assault by smart engineering, the better we'll all be. For a topic as boring as watering one's lawn, I'm pretty excited about this.

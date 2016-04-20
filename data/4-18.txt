@@ -1,0 +1,21 @@
+Cloud Powered Near Instant PC, Mobile Upgrades Are the New Reality
+
+Buying a new computer or getting a new phone used to be a huge pain. Even if everything was up and running right away, you had to plan for hours, or even days, of moving all your data from the old device to the new one. And if you didn¡¯t successfully complete the data migration, or had sufficient paranoia, you could end up with old devices cluttering your home - just in case you might need to get that old content. But with so much of our data moving from local disks to the cloud, and new operating systems improving their sync and account setup, the day of hot swapping devices is here. 
+
+As you know, for the past few years, our home has been a ChromeOS and Android family. This started well before I joined Google, and as each OS gets smarter, that move looks to have been the right one - especially when it comes to this issue. 
+
+
+Samsung's 2012 Chromebook Got Bumped for the 2014 HP.
+
+
+
+Last week, thanks to a sale on Woot.com, I purchased a new HP 14 inch Chromebook for my wife. One evening, as she was using the 2012-era 11 inch Samsung Chromebook, I told her to close her eyes. I took her old laptop and put the new one in her lap, and when she signed in, she didn¡¯t miss a beat. All her bookmarks were there, even down to the tabs she had open in her browser. With one move, and for the same $200 or so I spent two years ago, she got a faster device, double the RAM, and a larger, more vibrant screen, with no headaches around data. 
+
+There was no question of whether she had to back up photos, or copy her songs. No dragging and dropping off folders and documents. It just worked, exactly as I had expected it to. And the next morning, when she had to print to our networked printer, she just told the browser to print, and the printer was listening. No printer drivers, and not even a memory of a CD-Rom or DVD. It just worked. 
+
+
+A discussion on Twitter with +Josh Elman and +Edwin Khodabakchian
+
+Meanwhile, on mobile, the story is much the same. Whether it¡¯s due to an accidental drop (which has happened in our home more than once), or a required factory reset thanks to trying new software before it¡¯s ready (that¡¯s also happened), starting over with a new phone or starting the phone over from scratch is no big deal any more either. Signing into my account brings my account information, access to my data, my apps, and my preferences. 
+
+In the storage industry, we used to talk about hot swappable units - which would enable upgrades without reboots or interruption of access to data. The dream of upgrading servers, disks, arrays or network equipment without downtime was rarely achieved, but often talked about. On the consumer side, many of us have grown accustomed to the inevitable pains that come with getting new devices or even upgrading those devices from one system version to the next, and it doesn¡¯t have to be this way any more. 

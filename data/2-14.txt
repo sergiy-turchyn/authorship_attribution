@@ -1,0 +1,23 @@
+Easier blogging is possible! :-)
+
+One of the early testers of the 1999 server software wrote about removing inertia from blogging. 
+
+He compares the number of steps to create a new post in 1999 with the steps it takes to write a new WordPress post. 
+
+In 1999 -- 
+
+Write in the edit box at the top of the page.
+Click the Post button.
+Review what you wrote. Edit.
+When you're ready choose Publish from the popup menu on the post.
+Confirm you want to publish. 
+That's it. 
+He lists all the steps for WordPress. There's a lot more involved. Not only in work for the experienced user, but in barriers to entry for the newbie.
+
+WordPress is a lot more work than it needs to be. Fact. 
+
+There's a lot more to the design of 1999 that makes it the smoothest blogging environment ever. 
+
+Where we're at with 1999
+
+Update on progress. We have a great group of server people helping test the software. It's running well on at least a dozen other servers. Shaking out bugs, writing docs, getting ready for a serious blogging platform ship. 

@@ -1,0 +1,14 @@
+How Instant Articles helps the open web
+
+How Facebook Instant Articles helps the open web.
+
+Each article can contain markup, and most important links. Links go to other places on the open web. So finally when we write stuff that's posted to Facebook our writing can be part of the web. 
+When you update a post after it appears on Facebook, they get the updates, so you don't have to do anything to keep it in sync.
+It's built on RSS, an open format. The RSS can be used for other purposes, such as posting to LinkedIn, Twitter, Medium or any new service that might come along. So Facebook doesn't have an exclusive on this flow. They are not being a silo! Hey how about that.
+Because Facebook is the largest source of flow, it seems the others will have to match them. The easiest way to match them is to just accept the same feed I use to post to Facebook. 
+I can and will modify River5 to support the Instant Article format. All kinds of new services can boot up on the flow, without depending on Facebook servers. You can't be turned off by Facebook. This is the key feature of the open web, it's the platform without a platform vendor.
+My blog shares in this flow. So now I don't have to neglect my blog in order to post to Facebook. I can have both, with the same effort. That means I control my archive, and should the terms of service change radically, my writing will still exist, outside the silo. 
+Your blogging platform, WordPress, Tumblr, Drupal, etc will almost certainly support this format in addition to the current feed it produces. Or these features could be rolled into the existing feed. Either approach will work. So you can expect, if you are a blogger, that you will not have to do anything but update your software (if you host it yourself) to get the new connection to Facebook. I'm sure they're all working on getting ready for the April rollout. 
+Summary: Facebook is using open web technology to power Instant Articles. I'm not sharing anything that isn't already publicly documented on the Facebook developer site. People have trouble understanding this, I assume, because it seems so out of character for a big web destination like Facebook to care about the open web. It's kind of a miracle. But there it is. The open web is about to get a real shot in the arm from a most unexpected place. 
+
+Note: I have been in the loop on this for almost two years. But until I was able to produce a feed that correctly flows through their system, it was all speculation. But it's no longer speculative. I've tried it, it works as advertised. 

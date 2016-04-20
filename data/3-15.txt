@@ -1,0 +1,49 @@
+The Internet Of Things Connects The Future Of Business
+
+The Internet of Things (IoT) is one of the most incredible feats of modern technology. With the right vision and architecture, IoT will bring to life new possibilities and experiences. It＊s also one of the most confusing and ambiguous. To make sense of it all and specifically understand how IoT applies to business, I assembled a short list of examples of companies successfully employing this new web in interesting applications.
+
+Why is IoT so mystifying? First, it＊s the name. The Internet of things doesn＊t necessarily roll of the tongue. Second, it＊s big. I mean, it＊s everything that＊s connected to the net, ranging from wearables to appliances to industrial equipment to cars. Yep, it＊s more than your Nest thermostat, Apple Watch, FitBit, et al. There＊s a reason Cisco refers to it as the Internet of Everything. That＊s the thing. Anything and everything can connect to the Internet and share information with other devices, software platforms or direct to people. That information is dependent on the device, what it＊s meant to do and also what it＊s intended to communicate.
+
+For example, GE manufactures jet engines that send operational information to a cloud-based software platform that aviation engineers can monitor and study to gauge, streamline and improve performance. But that＊s just one instance in a vast sea of diverse business applications.
+
+The Need for Feed: Tesla Races to the Front of IoT
+
+Tesla is making electric cars that are feats of engineering. More so, these connected automobiles are also stars in the constellation of IoT.
+
+In addition to being a luxury, performance vehicle, the car is one big IoT device. For starters, Tesla features an always-on 3G cell connection to the Internet, which is provided free by company. The car also features WiFi and bluetooth connectivity. This is the gateway to share and receive information about the car and its environment to Tesla (anonymously), to users, and ultimately to other vehicles and devices.  For instance, the car can receive new software and firmware versions and upgrade itself automatically.
+
+Tesla captures pretty much everything that happens when the car is on. Instead of producing smog, it emits big data. From geolocation to internal and external climate to energy consumption and power to altitude and angle to driving patterns to user preferences and settings, etc., virtually all aspects are digitized and organized to be used inspection and utilization.
+
+The amount of data the car produces helps Tesla understand how to improve efficiencies and performance based on how and where people drive the car. Drivers too are rewarded with insights and upgrades to enhance the driving and owner experience.
+
+The Logistics of IoT
+
+UPS is a company that is built upon logistics. The global delivery network manages more than 16 million shipments a day. As such, UPS has integrated a sophisticated IoT infrastructure to learn how and where to streamline operations and also introduce opportunities for innovation. More importantly, the company is seeking ways to lessen its environmental impact.
+
+UPS uses a proprietary package flow system that determines what packages are loaded on each vehicle then also gathers a tremendous amount of fleet data using telematics. Dubbed ※telepathic trucks,§ UPS also integrated sensors into every facet of its operations tracking not only packages but also everything related to the running of its fleet, including:
+
+每 Engine
+
+每 Speed
+
+每 Mileage
+
+每 Fuel consumption
+
+每 Location
+
+每 Number of stops
+
+每 Emissions
+
+每 Devices for delivery and service
+
+每 Maps
+
+One thing that＊s inherent with IoT is data. And, the bigger the application or the installation, the bigger the data that comes from it.  But Jack Levis, UPS Director of Process Management believes that data isn＊t the secret sauce of IoT, it＊s the insights and actions that bring to life new possibilities. ※It＊s not the data alone that helps us improve,§ he said. ※It＊s what we do with it that makes the difference.§
+
+As a result, the company reported dramatic reductions in fuel usage, saving 1.5 million gallons and also 13,000 metric tons of carbon emissions in 2012 alone.
+
+While IoT and its everyday impact is nascent, the applications for and benefits of IoT in business are practically infinite. While we＊ve explored just a few brief examples, what lies ahead is a new era of connected products and services. What ties everything together is the data and services exchanged between people, devices and systems. The real magic happens though when the vision to design new, integrated experiences are enhanced because the ecosystem is designed to improve itself with usage.
+
+The future of IoT is now beginning to unfold at the intersection of technology, design and data science.

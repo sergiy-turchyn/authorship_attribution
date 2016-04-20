@@ -1,0 +1,38 @@
+Life By Numbers and Notifications
+
+
+From morning until night, I'm led by numbers and notifications. These numbers prompt me what to do next, what actions to take, and often, can be used to inform whether my decision was the right one. And throughout the day, all my devices, working in concert, alert me to what they believe is the information I need to know right now. As we've seen a graduation of our primary content consumption from longform text to microtext, we're moving again to the notification being the central medium by which our get our updates.
+
+Like most of you, my day starts with an alarm clock - mine being on my Nexus 7. When the time hits a certain number, the familiar tone blares. I pick up the device and am confronted with two things: Notifications, which catch me up on the emails I received, responses on Twitter, and any texts or instant messages that came overnight. The next scan goes to the numbers. How are the stocks I watch doing? Up, down or unchanged? How many emails do I need to respond to, and do the social networks (Google+, Twitter and Facebook) need responses?
+
+With the essential bits out of the way, I move on to the next numbers - which usually means opening up my laptop and using Feedly. Feedly, like Google Reader before it, catches all my RSS feeds and lets me know how many items are new, I hit J and K to get caught up, share the very best to Pocket (which then flows to LG Stream on Twitter), and bring that number down to zero.
+
+Only with my email box empty, social networks made whole, and Feedly brought down to even can I move on to the next steps. No pun intended, that means getting ready for the day and making sure I have my Fitbit on - and have weighed in on the Fitbit Aria scale to track progress. If I'm completely wired, I might be sporting an Android Wear watch (I have the Samsung Gear Live), my Nexus 5, and the Fitbit. All three devices are counting my steps, and the Nexus 5 (thanks to the Moves App) actually tracks exactly where I've been and how long I stayed there - my every movement being tabulated.
+
+   
+Moves Tracks My Every Step in Parallel with Fitbit
+
+
+The drive to work gets counted. Automatic scores me on a scale of 1 to 100 on whether I've driven too fast or wasted gas on the way. My GPS tells me how many more miles it is to reach my destination, and how many minutes it expects I'll sit in traffic and peek at my colleagues who are looking at their notifications on their devices while driving.
+
+While I'm at the office, my Nest thermostat works in the numbers to keep the home temperature feeling just right. My Sunrun solar panels are taking in heat from the sun and converting it into Kilowatt hours of energy. If the numbers produced are higher than the numbers consumed, and they almost always are, then we saved money that day. The Rachio sprinkler system checks to see if expected rainfall is above a specific numeric value, and if it is, they simply won't run.
+
+If I've updated my content channels, at home or at work, the numbers tell me what's happening - through Google Analytics, Twitter and Google+ Insights. Who's watching and engaging and sharing the content? I can be alerted if one of my posts has reached the top of Hacker News, or is shared by Marc Andreesen on Twitter. The numbers always tell the story.
+
+
+The Hacker News bump begins.
+
+While most of those numbers are a holdover from the PC and even mobile-centric world, the new age of devices is driven almost entirely by notifications. Google Glass, in addition to being a first-person perspective camera, is a notification machine, getting you the updates you need directly, and giving you the option to engage. Android Wear goes beyond the clock and brings the notification (and engagement) to the wrist.
+
+
+Android Wear is here. You can get yours on Google Play.
+
+Application developers are getting smarter about how they can make their app less passive and more active. If it can justify notifying you to an update - be it ESPN's SportsCenter alerting me to trades or Google Now telling me it's time to drive home, then the app stays on my radar. Abuse the privilege, and the app (often games) will get uninstalled.
+
+The day's efforts becomes a balance of managing the numbers and the notifications. Answer the emails. Read the updates in Feedly. Respond to Twitter and Google+. Answer the instant messages.
+
+There are three checkpoints to tell you how you're doing. The first comes at 1 p.m. Pacific (4 p.m. Eastern) when you find out how your stocks did on the market. Did you make money or lose it? Mint.com and the Check app can give you updates on your daily progress. The second comes at the end of the workday when you get home. Did you whittle down your work to inbox zero or have more to do when you left than when you started? And the third comes at the end of the calendar day. Did you walk enough to get your step goal? Did you drive well enough to keep your score at 100? Did your favorite team win? What was the score?
+
+Then you get ready for the next day by setting the alarm and seeing, in clear numbers, how many more hours you have left before starting the numbers and notification race again. There's an app for that. Now if you'll excuse me, I have some notifications and updates to clear.
+
+Disclosures (per usual): I work at Google, which owns Nest, and is behind Android Wear, Google Glass and the Nexus 5 and 7. Our friends at Facebook now own Moves, and we occasionally partner or compete with Twitter and others on various bits.

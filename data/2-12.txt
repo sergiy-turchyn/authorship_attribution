@@ -1,0 +1,19 @@
+The obligatory test post for a CMS corner-turn
+
+I'm turning a big corner on my blog, switching over to the same version of 1999.io that I released to the testers last week.
+
+I will need at least one test post to shake out any problems. There are a lot of special moving parts for this blog. I need to make sure all the stuff is stored on scripting.com. Learned a long time ago not to spray scripting.com bits all over various short-lived domains. If I want the stuff to stick around, I have to use the main domain. Since I'm virtually always working on new blogging software that's meant lots of opportunities to break stuff. 
+
+Wish me luck! blush
+
+Here's this post on scripting.com. 
+
+Right off the bat I see plenty that's broken. For example, there's no menu bar on the rendered page. And the next/prev links might be screwed up. However I think the liveblog connection is working. Indeed it is. That's something! 
+
+To get the menubar to work I just had to edit it and save. That was easy!
+
+Forty minutes after posting this, all the items on my checklist are done, everything looks like it's in the right place. So if I go ahead and publish this piece, it should go out through the feed and appear on the Scripting News home page. Hahaha. No chance of that happening of course. Just hope all hell doesn't break loose! 
+
+Well it all appears to work. I hope I get another idea for a post before too long so I can do another test. In the meantime, thank you for your indulgence. Dig we must!
+
+Update: I take it back. There is breakage. No menus or next/prev links on the old archive pages, for posts before today. I will look into that when my eyes are less bleary and my stomach isn't screaming Feed me feed me!

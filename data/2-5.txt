@@ -1,0 +1,15 @@
+Programming note
+
+I did notice that there was an extraneous bunch of characters on the home page of Scripting News when viewed on a phone. 
+
+I almost never look at my own blog home page when I'm out and about (I have inside knowledge that nothing has changed). 
+
+And even when I did see it, it's hard to make notes while moving around. Also I'm forgetful, esp with programming details (my mind is way overloaded with that stuff).
+
+So when I got a bug report on Twitter from Jeff Triplett this morning, the timing was perfect. I was putting together the hit list for the day, and went ahead and added it. It was quite a puzzle because these days the "Scripting News" home page is quite an assembly of bits from various places. Much of the assembly code is new and likely to have these kinds of mistakes.
+
+In this case for some reason Safari on the iPhone displays extraneous text in the <head> section of a page in the body. I had copied a document.write statement and forgot to take off the closing "); This is the schmutz that was showing up in the page, it turns out.
+
+Easily fixed. Position the cursor at the end of the line, hit Backspace three times. Save. Rebuild. Bing. It's gone. 
+
+I love getting bug reports that end in relatively easy fixes. No fuss no muss and the world is slightly less chaotic. Still diggin!

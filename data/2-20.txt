@@ -1,0 +1,27 @@
+Can we still trust Google search?
+
+Last night I was searching Google for an article I wrote earlier this year, the way I always do it. I couldn't find it. Not only that, searches that should have turned up hundreds of hits, only showed one or two. 
+
+Google has been thoroughly indexing my site for many years. I remember when they first started, how nice it was, but today I take it for granted. If they weren't doing such an excellent job I would have had to write my own site search function.
+
+The thought has occurred to me that this is Google taking its push to HTTPS to a new level. No, I don't want to support HTTPS on all my sites. I have a huge number of them. I've been creating new sites since 1994. And of course they have the right to index or not index whatever they want. And I have the right to stick to HTTP for my sites.
+
+Of course this could be:
+
+A bug.
+My imagination.
+But they have said they play games with the search engine that have nothing to do with the actual relevance of a site. And this isn't even about relevance, I'm prefixing the searches with site:scripting.com. I'm specifically searching on my own site.
+
+Conclusions.
+
+I need to raise the issue publicly. Done.
+We need to replace Google now, because if this isn't the time that they turn the lights off on my site, that day could well be coming. I have trusted Google since they started up in 1998. Clearly I don't trust them anymore if I have doubts about whether they're deliberately downgrading the search quality of my site.
+The day of Google being the default search engine may be coming to a close. 
+Note: To be absolutely clear, for people who skim, I am not talking about other people finding my content or them reducing the rank of this site, I'm talking about using Google as a utility to help me find stuff on my own site, something I absolutely need to be able to do, reliably. 
+
+Update
+
+I tried searching with DuckDuckGo instead. What I found:
+
+It appears to have a much better index of recent posts on Scripting News than Google does. 
+However I was not able to find the post I was looking for. That might imply that the writer's memory of where he wrote this is imperfect.

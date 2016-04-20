@@ -1,0 +1,29 @@
+Our Smartphones Have Surpassed Their Role as Computers In Our Pockets
+
+The prevailing mantra holds that as our phones become increasingly smart and constantly connected, that we're walking around with the equivalent of computers in our pocket.
+
+These intelligent devices can do practically everything their PC predecessors could, from email and web browsing to document sharing and creation, music and photos, and any application you can think of. In fact, I'd argue that we're not only seeing people spend more hours with their mobile devices than traditional PCs, they're more functional as well - as the smartphone has surpassed the PC. Ever try taking photos with your iMac? It's tough.
+
+Now, instead of considering these phones and tablets as miniature computers, which are used to access our desktop content on the go, we're seeing the reverse take place. The smartphones are initiating the activity, and the desktop connects us to the results. Instead of many small computers in our pocket, our PCs are essentially larger versions of our phones - and we come to our Web browsers and desktop apps to pick up where our phones left off.
+
+
+Rachio's Web site is as Functional as the App
+
+Not too long ago, it was common to expect apps to be made for our smartphone platforms that were extensions of our Web experiences. These simple mobile apps were wrappers for our cloud-based data, or simply sucked down web pages and media, but didn't offer experiences that were enhanced by being mobile. It was just a mirror of what you could get on the desktop. However, as the app ecosystem exploded for iOS, Android and other platforms, coding for the smartphone became the primary destination and effort for new companies and ideas.
+
+
+Automatic's Web dashboard leverages data from the mobile device.
+
+You could see this evolution go in a a three step process, from "Mobile too" to "Mobile first" and in many cases now, "Mobile only." Mobile experiences can't just be a shadow of the desktop version, but instead are now carefully crafted to meet rigid design expectations, with a user experience that adapts for smaller screens, and gets better with understanding of the user's location data or other apps installed on the phone. We're spending more and more time inside of our mobile apps, which can be our primary messaging and sharing vehicle, our second screens while watching TV or using the desktop, or a constant companion - to the point we hold them in our hands as we walk everywhere, or put them out on the table in front of us wherever we may go, waiting for the next chirp to grab our attention.
+
+
+Fitbit takes its data and makes smart charts and graphs on their site.
+
+The natural evolution of this mobile first, mobile centric reality is that we're now no longer going to our phones to pick up where our desktops left off, but the reverse. And when I do end up in front of a full-sized keyboard and monitor, I'm clamoring for smart Web experiences in my browser that reflect activities that have happened on the phone. If it's a miss, I may end up closing my laptop and picking up my Nexus 5 instead.
+
+For applications that are primarily experienced on mobile, seeing a strong Web interface that contains the same data as on mobile is a pleasant surprise. You can see this difference in the way Fitbit has worked hard to have a great Web experience to mirror mobile, while the Moves app does not. Automatic and Rachio have a workable Web experience to match their mobile version.
+
+
+Managing the Nest thermostat via the Web - same as the app.
+
+Not too long ago, trying to use the Web and get data on our phones was exasperating. We had subpar experiences, had to make excuses for short email replies, or say we'd get to something when back at the desktop. But now, often, when at the PC, you're pining for what's on the phone - even if you can send texts or make voice and video calls from the browser. It's delightful to see when the two are working in sync, and the desktop experience makes the phone experience better. As a user, I'd be delighted to see the front-end experience for the same shared back-end data become more in sync and know the devices are working well together for every service.
