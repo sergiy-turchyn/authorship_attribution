@@ -26,10 +26,10 @@ wordList = []
 charList = []
 
 # How many most used words/characters we take from each author
-wordsPerAuthor = 100
-charsPerAuthor = 100
+wordsPerAuthor = 200
+charsPerAuthor = 200
 # How many features to select in feature selection
-numBestFeatures = 50
+numBestFeatures = 20
 
 featureSelection = SelectKBest(chi2, k=numBestFeatures)
 
@@ -49,6 +49,9 @@ class TextFeatures:
 	stdWordLength = None
 	wordFrequencies = {}
 	charFrequencies = {}
+	uppercaseFreq = None # uppercase character frequency
+	lowercaseFreq = None # lowercase character frequency
+	numericFreq = None # numeric character frequency
 	author = None # cheating feature
 	# any additional features go here
 	
@@ -60,6 +63,9 @@ def getFeatureName(number):
 	result.append('Average word length')
 	result.append('Median word length')
 	result.append('Standard deviation of word lengths')
+	result.append('Frequency of uppercase characters')
+	result.append('Frequency of lowercase characters')
+	result.append('Frequency of numeric characters')
 	#result.append('Author')
 	for word in wordList:
 		result.append('Frequency of word "'+word+'"')
@@ -78,6 +84,9 @@ def featuresToList(features):
 	result.append(features.avgWordLength)
 	result.append(features.medianWordLength)
 	result.append(features.stdWordLength)
+	result.append(features.uppercaseFreq)
+	result.append(features.lowercaseFreq)
+	result.append(features.numericFreq)
 	#result.append(features.author)
 	
 	for word in wordList:
@@ -161,6 +170,13 @@ def getFeatures(filename):
 	features.avgWordLength = avgWordLength
 	features.medianWordLength = medianWordLength
 	features.stdWordLength = stdWordLength
+	# get frequency of uppercase, lowercase, and numeric characters
+	numeric = [char for char in raw if char.isdigit()]
+	uppercase = [char for char in raw if char.isupper()]
+	lowercase = [char for char in raw if char.islower()]
+	features.numericFreq = len(numeric)/float(len(raw))
+	features.uppercaseFreq = len(uppercase)/float(len(raw))
+	features.lowercaseFreq = len(lowercase)/float(len(raw))
 	# stem
 	text = [stemmer.stem(word) for word in text.split()]
 	# calculate frequency data
@@ -201,7 +217,7 @@ def displayAvgFeatures (filenames, labels):
 
 # Evaluate classifiers using N-fold cross validation
 # Input: classifier (one of global vars), features and labels for each text
-def evaluate (classifier, filenames, labels, numberOfFolds=5):
+def evaluate (classifier, filenames, labels, numberOfFolds=5, printMatrix=True):
 	skf = StratifiedKFold(labels, numberOfFolds)
 	confusion_matrices = []
 	numCorrect = 0
@@ -247,12 +263,14 @@ def evaluate (classifier, filenames, labels, numberOfFolds=5):
 	confusion_matrices_numpy = np.array(confusion_matrices)
 	mean_cf_mat = np.mean(confusion_matrices_numpy, axis=0)
 	mean_cf_mat = mean_cf_mat/mean_cf_mat.sum(axis=1)[:,None]
-	print mean_cf_mat
+	if printMatrix:
+		print mean_cf_mat
 	# Print accuracy
 	accuracy = numCorrect/float(numCorrect+numIncorrect)
 	print 'Accuracy: ' + str(accuracy)
-	print ''
-	
+	#print ''
+	return accuracy
+		
 if __name__ == '__main__':
 	# Get filenames and labels for training data
 	dataFolder = 'data/'
@@ -263,8 +281,8 @@ if __name__ == '__main__':
 	for author in set(labels):
 		print 'Author: ' + str(author) + '    Files: ' + str(labels.count(author))
 	# Define classifiers to compare
-	svmClassifier = SVC(C=10)
-	knnClassifier = KNeighborsClassifier(weights='distance')
+	svmClassifier = SVC(C=100000)
+	knnClassifier = KNeighborsClassifier(weights='distance', n_neighbors=15)
 	dTreeClassifier = DecisionTreeClassifier()
 	rForestClassifier = RandomForestClassifier()
 	nBayesClassifier = GaussianNB()
@@ -272,23 +290,35 @@ if __name__ == '__main__':
 	#displayAvgFeatures (filenames, labels)
 	#selectFeatures(filenames, labels)
 	print ''
-	showBestFeatures(filenames, labels)
+	#showBestFeatures(filenames, labels)
 	print ''
-
-	print 'Testing SVM'
-	evaluate (svmClassifier, filenames, labels)
 	
-	print 'Testing KNN'
-	evaluate (knnClassifier, filenames, labels)
+	data = [[],[],[],[],[]]
 	
-	print 'Testing decision tree'
-	evaluate (dTreeClassifier, filenames, labels)
-	
-	print 'Testing random forest'
-	evaluate (rForestClassifier, filenames, labels)
-	
-	print 'Testing naive Bayes'
-	evaluate (nBayesClassifier, filenames, labels)
+	#global numBestFeatures
+	#global featureSelection
+	for num in range(1,101):
+		numBestFeatures = num
+		featureSelection = SelectKBest(chi2, k=numBestFeatures)
+		print 'numBestFeatures = ' + str(numBestFeatures)
+		showBestFeatures(filenames, labels)
+		
+		print 'Testing SVM'
+		data[0].append(evaluate (svmClassifier, filenames, labels))
+		
+		print 'Testing KNN'
+		data[1].append(evaluate (knnClassifier, filenames, labels))
+		
+		print 'Testing decision tree'
+		data[2].append(evaluate (dTreeClassifier, filenames, labels))
+		
+		print 'Testing random forest'
+		data[3].append(evaluate (rForestClassifier, filenames, labels))
+		
+		print 'Testing naive Bayes'
+		data[4].append(evaluate (nBayesClassifier, filenames, labels))
+		
+	print data
 	
 	
 	
