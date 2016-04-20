@@ -297,27 +297,34 @@ if __name__ == '__main__':
 	
 	#global numBestFeatures
 	#global featureSelection
-	for num in range(1,101):
-		numBestFeatures = num
-		featureSelection = SelectKBest(chi2, k=numBestFeatures)
-		print 'numBestFeatures = ' + str(numBestFeatures)
-		showBestFeatures(filenames, labels)
-		
-		print 'Testing SVM'
-		data[0].append(evaluate (svmClassifier, filenames, labels))
-		
-		print 'Testing KNN'
-		data[1].append(evaluate (knnClassifier, filenames, labels))
-		
-		print 'Testing decision tree'
-		data[2].append(evaluate (dTreeClassifier, filenames, labels))
-		
-		print 'Testing random forest'
-		data[3].append(evaluate (rForestClassifier, filenames, labels))
-		
-		print 'Testing naive Bayes'
-		data[4].append(evaluate (nBayesClassifier, filenames, labels))
-		
+	#print 'numBestFeatures = ' + str(numBestFeatures)
+	#showBestFeatures(filenames, labels)
+	'''
+	numBestFeatures = 100
+	featureSelection = SelectKBest(chi2, k=numBestFeatures)
+	print 'Testing SVM'
+	data[0].append(evaluate (svmClassifier, filenames, labels))
+	
+	numBestFeatures = 37
+	featureSelection = SelectKBest(chi2, k=numBestFeatures)
+	print 'Testing KNN'
+	data[1].append(evaluate (knnClassifier, filenames, labels))
+	'''
+	numBestFeatures = 95
+	featureSelection = SelectKBest(chi2, k=numBestFeatures)
+	print 'Testing decision tree'
+	data[2].append(evaluate (dTreeClassifier, filenames, labels))
+	
+	numBestFeatures = 94
+	featureSelection = SelectKBest(chi2, k=numBestFeatures)
+	print 'Testing random forest'
+	data[3].append(evaluate (rForestClassifier, filenames, labels))
+	'''
+	numBestFeatures = 67
+	featureSelection = SelectKBest(chi2, k=numBestFeatures)
+	print 'Testing naive Bayes'
+	data[4].append(evaluate (nBayesClassifier, filenames, labels))
+	'''
 	print data
 	
 	
